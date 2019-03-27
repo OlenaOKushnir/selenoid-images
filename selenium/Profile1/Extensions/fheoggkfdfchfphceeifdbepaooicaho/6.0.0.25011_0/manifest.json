@@ -1,0 +1,36 @@
+{
+   "background": {
+      "scripts": [ "mcafee_wa_background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "images/browser_action/disabled_16.png",
+         "32": "images/browser_action/disabled_32.png"
+      },
+      "default_popup": "html/popup.html",
+      "default_title": "__MSG_res_PRODUCT_NAME_TRADEMARKED__"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "js": [ "punycode.js", "mcafee_wa_content.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "js": [ "mcafee_wa_iframeplg.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_res_PRODUCT_NAME_TRADEMARKED__",
+   "icons": {
+      "128": "images/webadvisor.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCrOrksCVomv4HZxXZu6eb3fMbFPlYcSWHnBa0eGSLlBx4YJU3hgqATLB9FrVu1I2kjEKU02kDNejzwnooAjAMpQLMN6rDnVLt/xgvBvwfUcqVOX2vmJvzBFUNhrShiAco662ZtJRD2B4MshsjoggFtWvpBDi3VXRzpr1I0jA0tUwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_res_PRODUCT_NAME_TRADEMARKED__",
+   "permissions": [ "tabs", "\u003Call_urls>", "downloads", "nativeMessaging", "webRequest", "storage", "webRequestBlocking" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "6.0.0.25011",
+   "web_accessible_resources": [ "html/*.html", "images/*.png", "images/*.gif", "json/*.json", "fonts/*.ttf" ]
+}

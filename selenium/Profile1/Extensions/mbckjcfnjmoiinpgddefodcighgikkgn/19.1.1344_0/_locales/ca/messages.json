@@ -1,0 +1,609 @@
+{
+   "avastAppDesc": {
+      "description": "max 132 chars are allowed for this message",
+      "message": "Trobeu els millors preus, ofertes i cupons mentre compreu per Internet amb la comparació de preus i l'extensió de cupó de l'Avast."
+   },
+   "avastAppLongName": {
+      "message": "Avast SafePrice | Price comparison, deals and coupons on safe shopping sites - Save Money"
+   },
+   "avastAppName": {
+      "message": "Avast SafePrice"
+   },
+   "avastAppShortName": {
+      "message": "Avast SafePrice | Comparacions, ofertes i cupons"
+   },
+   "avgAppDesc": {
+      "description": "max 132 chars are allowed for this message",
+      "message": "Trobeu els millors preus, ofertes i cupons mentre compreu per Internet amb la comparació de preus i l'extensió de cupó de l'AVG."
+   },
+   "avgAppLongName": {
+      "message": "AVG SafePrice | Price comparison, deals and coupons on safe shopping sites - Save Money"
+   },
+   "avgAppName": {
+      "message": "AVG SafePrice"
+   },
+   "avgAppShortName": {
+      "message": "AVG SafePrice | Comparacions, ofertes i cupons"
+   },
+   "safePriceAskMeLater": {
+      "description": "It is showed to the user on the rating screen in order to offer it to rate extension later",
+      "message": "Pregunta-m'ho més tard"
+   },
+   "safePriceEnjoyQuestion_AVG": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "Gaudiu utilitzant \u003Cbr> l'AVG SafePrice?"
+   },
+   "safePriceEnjoyQuestion_Avast": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "Gaudiu utilitzant \u003Cbr> l'Avast SafePrice?"
+   },
+   "safePriceLeaveRating": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "Deixeu-nos una valoració per mostrar-hi la vostra satisfacció."
+   },
+   "sasAnswerNo": {
+      "message": "no"
+   },
+   "sasAnswerYes": {
+      "message": "sí"
+   },
+   "sasClickToCopy": {
+      "message": "Clic per copiar"
+   },
+   "sasCouponAppliedOnPage": {
+      "message": "Cupó aplicat en aquesta pàgina"
+   },
+   "sasCouponCodeCopied": {
+      "message": "S'ha copiat el codi al porta-retalls."
+   },
+   "sasGladYouLike": {
+      "message": "Ens alegrem que us agradi!"
+   },
+   "sasHintSettings": {
+      "message": "Configuració"
+   },
+   "sasOpenShop": {
+      "message": "Obre la botiga"
+   },
+   "sasRate": {
+      "message": "Deixa una valoració"
+   },
+   "sasSorry": {
+      "message": "Ho sentim molt"
+   },
+   "sasWhatToDo": {
+      "message": "Què podem fer per millorar?"
+   },
+   "sasfeedback": {
+      "message": "envieu-nos un comentari"
+   },
+   "save": {
+      "message": "Estalvia"
+   },
+   "spAdditionalFees": {
+      "message": "S'hi poden aplicar taxes i impostos addicionals"
+   },
+   "spAfterCloseTooltip": {
+      "description": "Small tooltips showed to the user after closing UI in order to remain users how to get UI back.",
+      "message": "Podeu trobar a tota hora les ofertes i els cupons de SafePrice clicant la icona a la barra d'eines."
+   },
+   "spAfterCloseTooltipGotIt": {
+      "description": "Confirm message showed on Small tooltips showed to the user after closing UI in order to remain users how to get UI back.",
+      "message": "ENTESOS!"
+   },
+   "spApply": {
+      "message": "Aplica el cupó"
+   },
+   "spAvailableCoupons": {
+      "message": "Cupons disponibles"
+   },
+   "spAvailableHotels": {
+      "message": "Hotels disponibles"
+   },
+   "spAvailableOffers": {
+      "message": "Ofertes disponibles"
+   },
+   "spAvailableOthers": {
+      "message": "Oferta especial"
+   },
+   "spBetterOfferLowerPricesNotificationMessage": {
+      "message": "preus des de"
+   },
+   "spBetterOffersNotificationBarMessage": {
+      "message": "Mireu! Més ofertes"
+   },
+   "spBetterOffersNotificationMessage": {
+      "message": "Mireu!\u003Cbr> Més ofertes"
+   },
+   "spBetterSpecialDealsNotificationBarMessage": {
+      "message": "Com més ofertes, més estalvi!"
+   },
+   "spBetterSpecialDealsNotificationMessage": {
+      "message": "Com més ofertes,\u003Cbr> més estalvi!"
+   },
+   "spCityHotelNotificationMessage": {
+      "message": "Hotels populars:"
+   },
+   "spClickThenPaste": {
+      "message": "Copieu i després enganxeu per fer el pagament:"
+   },
+   "spClickThenPasteSearchResult": {
+      "description": "%s is the name of the domain where coupon was applied",
+      "message": "Copieu i després enganxeu per fer el pagament a \u003Cspan class='asp-shopname-span'>%s\u003C/span>:"
+   },
+   "spCloseTooltip": {
+      "message": "Tanca"
+   },
+   "spCodeCopied": {
+      "message": "copiat"
+   },
+   "spConnectionNotSecure": {
+      "message": "Aquesta connexió no és segura"
+   },
+   "spConnectionNotSecureHover": {
+      "message": "Aquest lloc web no té un certificat https vàlid, de manera que no pot protegir per complet la vostra privacitat."
+   },
+   "spConnectionSecure": {
+      "message": "Aquesta connexió és segura"
+   },
+   "spCopyAtCheckOut": {
+      "message": "Copieu i enganxeu per fer el pagament:"
+   },
+   "spCouponApplied": {
+      "message": "Cupó aplicat."
+   },
+   "spCouponCodeWorks": {
+      "message": "Aquest codi funciona?"
+   },
+   "spCouponWorks": {
+      "message": "Aquest cupó funciona?"
+   },
+   "spCouponsAvailableText": {
+      "message": "Disponible"
+   },
+   "spCouponsExpiration": {
+      "message": "Caduca: "
+   },
+   "spCouponsFor": {
+      "description": "%s is the domain where the coupons can be applied",
+      "message": "Cupons per a %s"
+   },
+   "spCouponsNotificationMessage": {
+      "message": "Estalvieu diners fent servir els cupons"
+   },
+   "spCouponsNotificationSaveTextMessage": {
+      "message": "Estalvieu fins a un"
+   },
+   "spCouponsSearchIconHover": {
+      "message": "Cerca cupons"
+   },
+   "spCouponsSearchInput": {
+      "message": "Cerqueu marques o botigues en línia"
+   },
+   "spCouponsSelected": {
+      "message": "Cupons seleccionats: "
+   },
+   "spCouponsSelectedText": {
+      "message": "Seleccionat"
+   },
+   "spCouponsTab": {
+      "message": "Cupons"
+   },
+   "spEShopName": {
+      "message": "Nom de la botiga electrònica*"
+   },
+   "spFeedback": {
+      "message": "Comentaris"
+   },
+   "spFeedbackGeneral": {
+      "message": "Comentaris generals"
+   },
+   "spFeedbackGeneralDesc": {
+      "message": "Expliqueu-nos la vostra experiència amb SafePrice, el que us ha agradat i què podem millorar."
+   },
+   "spFeedbackLinkToProductPage": {
+      "message": "Enllaç a una pàgina de producte"
+   },
+   "spFeedbackNext": {
+      "message": "següent"
+   },
+   "spFeedbackOnlineStoreName": {
+      "message": "Nom de la botiga en línia*"
+   },
+   "spFeedbackOther": {
+      "message": "Altres"
+   },
+   "spFeedbackPaidAndNotGet": {
+      "message": "Vaig pagar per un producte i no el vaig rebre."
+   },
+   "spFeedbackProblem": {
+      "message": "Quin ha estat el problema? \u003Cspan class='asp-required-span'>(obligatori)\u003C/span>"
+   },
+   "spFeedbackProductOrdered": {
+      "message": "Producte demanat"
+   },
+   "spFeedbackReportOnlineStore": {
+      "message": "Notificació de botiga en línia"
+   },
+   "spFeedbackReportOnlineStoreDesc": {
+      "message": "Informeu-nos sobre llocs web de baixa reputació o falsos que podrien posar en perill altres persones."
+   },
+   "spFeedbackRetailerMerchant": {
+      "message": "Minorista o comerciant"
+   },
+   "spFeedbackSPExp": {
+      "message": "Expliqueu-nos la vostra experiència amb SafePrice:"
+   },
+   "spFeedbackSend": {
+      "message": "envia"
+   },
+   "spFeedbackShare": {
+      "message": "Compartiu els vostres comentaris"
+   },
+   "spFeedbackSomethingDifferent": {
+      "message": "Vaig rebre un producte diferent del que havia demanat."
+   },
+   "spFeedbackThanks": {
+      "message": "Gràcies pel seus comentaris!"
+   },
+   "spFeedbackWhatWasTheProblem": {
+      "message": "Expliqui breument quin ha estat el problema."
+   },
+   "spFeedbackWhichOnlineStoreReporting": {
+      "message": "¿Sobre quina botiga en línia esteu informant? \u003Cspan class='asp-required-span'>(*obligatori)\u003C/span>"
+   },
+   "spFeedbackWriteAComment": {
+      "message": "Escriure un comentari"
+   },
+   "spFeedbackback": {
+      "message": "enrere"
+   },
+   "spGetCouponCode": {
+      "message": "Aconsegueix el codi"
+   },
+   "spGreatDeal": {
+      "message": "Bona oferta"
+   },
+   "spHelpTooltip": {
+      "message": "Ajuda"
+   },
+   "spITrustThisSite": {
+      "message": "Confio en aquest lloc"
+   },
+   "spLeaveSite": {
+      "message": "surt del lloc"
+   },
+   "spLinkToProductPage": {
+      "message": "Enllaç a una pàgina de producte"
+   },
+   "spLoadingNotificationDescriptionMessage": {
+      "message": "Val la pena esperar, de debò."
+   },
+   "spLoadingNotificationMessage": {
+      "message": "S'estan cercant ofertes..."
+   },
+   "spMinimizeTooltip": {
+      "message": "Minimitza"
+   },
+   "spNoResultsFound": {
+      "description": "%s is the domain where we couldn't find coupons or can be also, what the user wrote on our seach input",
+      "message": "No s'han trobat resultats per a \u003Cbr> %s"
+   },
+   "spNoResultsFoundCoupons": {
+      "description": "%s is the domain where we couldn't find coupons or can be also, what the user wrote on our seach input",
+      "message": "No s'han trobat cupons per a \u003Cbr> %s"
+   },
+   "spNoResultsFoundCouponsNow": {
+      "description": "%s is the domain where we couldn't find offer",
+      "message": "No s'han trobat cupons ara per ara"
+   },
+   "spNoResultsFoundOffers": {
+      "description": "%s is the domain where we couldn't find offer",
+      "message": "No s'han trobat ofertes ara per ara"
+   },
+   "spNoResultsFoundOffersBasedOnQuery": {
+      "description": "%s is the title of the product for which we couldn't find offers or can be also, what the user wrote on our seach input",
+      "message": "No s'han trobat ofertes per a \u003Cbr> %s"
+   },
+   "spNoresultsFoundForOthers": {
+      "message": "No s'han trobat ofertes especials \u003Cbr> ara per ara"
+   },
+   "spNothingFoundCoupons": {
+      "message": "Ostres...\u003Cbr>No hem trobat cap cupó..."
+   },
+   "spNothingFoundOffers": {
+      "message": "Ostres...\u003Cbr>No hem trobat cap oferta..."
+   },
+   "spNothingFoundOthers": {
+      "message": "Ostres...\u003Cbr>No hem trobat cap oferta especial..."
+   },
+   "spNotificationRedirectShowLessMessage": {
+      "message": "Menys"
+   },
+   "spNotificationRedirectShowMoreMessage": {
+      "message": "Més"
+   },
+   "spNotificationRedirectShowRedirectMessage": {
+      "message": "MOSTRA L'OFERTA"
+   },
+   "spOffersAndCouponsNotificationMessage": {
+      "message": "S'han trobat ofertes i cupons. Quina sort!"
+   },
+   "spOffersTab": {
+      "message": "Ofertes"
+   },
+   "spOnboardingSearchCoupons": {
+      "message": "Comenceu a cercar cupons aquí"
+   },
+   "spOnboardingSearchOffers": {
+      "message": "Comenceu a cercar ofertes aquí"
+   },
+   "spOnboardingSettingsButton": {
+      "message": "D'acord"
+   },
+   "spOnboardingSettingsMsg": {
+      "message": "Definiu amb quina freqüència voleu veure ofertes i cupons"
+   },
+   "spOther": {
+      "message": "Altres"
+   },
+   "spOthersTab": {
+      "message": "Altres"
+   },
+   "spPhishingSite": {
+      "message": "Aquest lloc web s'ha marcat com a lloc de pesca electrònica"
+   },
+   "spPhishingSiteDesc": {
+      "message": "La pesca electrònica és l'intent d'obtenir informació confidencial com ara noms d'usuari, contrasenyes i informació de les targetes de crèdit."
+   },
+   "spProductBestOfferTitle": {
+      "message": "Millor preu"
+   },
+   "spProductOrdered": {
+      "message": "Producte demanat"
+   },
+   "spProductSimilarOffersTitle": {
+      "message": "Ofertes similars"
+   },
+   "spProductsSearchIconHover": {
+      "message": "Cerca un producte"
+   },
+   "spProductsSearchInput": {
+      "message": "Cerqueu productes"
+   },
+   "spRateCouponsThanks": {
+      "message": "Gràcies."
+   },
+   "spRecommend": {
+      "message": "recomana"
+   },
+   "spRecommendESHop": {
+      "message": "Recomana la botiga electrònica"
+   },
+   "spRecommendExcellentSelectionOfProducts": {
+      "message": "Tenen una selecció de productes excel·lent."
+   },
+   "spRecommendGreatCcustomerService": {
+      "message": "Tenen un servei al client magnífic."
+   },
+   "spRecommendGreatValue": {
+      "message": "Ofereixen un gran valor."
+   },
+   "spRecommendWhy": {
+      "message": "Per què recomaneu aquesta botiga electrònica?*"
+   },
+   "spReport": {
+      "message": "denuncia"
+   },
+   "spReportESHop": {
+      "message": "Denuncia la botiga electrònica"
+   },
+   "spReportGetSomethingDifferent": {
+      "message": "Vaig rebre un producte diferent del que havia demanat."
+   },
+   "spReportPaidAndNotGet": {
+      "message": "Vaig pagar per un producte i no el vaig rebre."
+   },
+   "spReportTreatedMePoorly": {
+      "message": "No em van tractar gaire bé com a client."
+   },
+   "spReportWhy": {
+      "message": "Per què voleu denunciar aquesta botiga electrònica?*"
+   },
+   "spRequired": {
+      "message": "*obligatori"
+   },
+   "spSearchCouponAppliedOnPage": {
+      "description": "%s is the name of the domain where coupon was applied",
+      "message": "Cupó aplicat a \u003Cspan class='asp-shopname-span'>%s\u003C/span>."
+   },
+   "spSearchForCoupons": {
+      "message": "Per aconseguir cupons, cerqueu \u003Cbr> una marca o una botiga en línia"
+   },
+   "spSearchForOffers": {
+      "message": "Per obtenir ofertes, cerqueu \u003Cbr> un producte"
+   },
+   "spSearchInAmazon": {
+      "description": "%s is the name of the domain. Ex: amazon",
+      "message": "feu una cerca a %s"
+   },
+   "spSelectedCoupons": {
+      "message": "Cupons seleccionats"
+   },
+   "spSettingsPageCancel": {
+      "message": "Cancel·la"
+   },
+   "spSettingsPageCustomList": {
+      "message": "Llista personalitzada"
+   },
+   "spSettingsPageCustomListItemAdd": {
+      "message": "Afegeix"
+   },
+   "spSettingsPageCustomListItemAddSite": {
+      "message": "Afegiu-hi un lloc"
+   },
+   "spSettingsPageCustomListTitle": {
+      "message": "No mostris cap notificació en aquests llocs web:"
+   },
+   "spSettingsPageCustomListTitleDesc": {
+      "message": "(podreu continuar veient les ofertes i els cupons a tota hora clicant la icona de la barra d'eines)"
+   },
+   "spSettingsPageHelp": {
+      "message": "Ajuda"
+   },
+   "spSettingsPageHelpCouponsTitle": {
+      "message": "3. Cupons"
+   },
+   "spSettingsPageHelpCouponsTitleDesc": {
+      "message": "Per fer servir un cupó, només cal que cliqueu a sobre. Si us mostra un codi, l'haureu d'enganxar al camp corresponent a l'hora de fer el pagament. Si no apareix cap codi, el cupó s'aplicarà de manera automàtica."
+   },
+   "spSettingsPageHelpFAQsTitle": {
+      "message": "Més informació a \u003Cspan class='asp-faqs-span'>PMF\u003C/span>."
+   },
+   "spSettingsPageHelpNotificationsTitle": {
+      "message": "1. Notificacions"
+   },
+   "spSettingsPageHelpNotificationsTitleDesc": {
+      "message": "Quan SafePrice trobi una oferta o un cupó relacionat amb la vostra cerca, us apareixerà un avís. Cliqueu el botó verd gran per veure què us hem trobat."
+   },
+   "spSettingsPageHelpOffersTitle": {
+      "message": "2. Ofertes"
+   },
+   "spSettingsPageHelpOffersTitleDesc": {
+      "message": "Si cliqueu sobre una oferta se us redirigirà a la botiga en línia de confiança d'un soci, on obtindreu el preu nou que apareix a la notificació."
+   },
+   "spSettingsPageHelpOthersTitle": {
+      "message": "4. Altres"
+   },
+   "spSettingsPageHelpOthersTitleDesc": {
+      "message": "Si cliqueu sobre una oferta especial se us redirigirà a la botiga en línia de confiança d'un soci."
+   },
+   "spSettingsPageSave": {
+      "message": "Desa"
+   },
+   "spSettingsPageTitleAvast": {
+      "message": "Configuració de l'Avast SafePrice"
+   },
+   "spSettingsPageTitleAvg": {
+      "message": "Configuració de l'AVG SafePrice"
+   },
+   "spSettingsTabNotificationAccommodationsTitle": {
+      "message": "Ofertes d'allotjament"
+   },
+   "spSettingsTabNotifications": {
+      "message": "Notificacions"
+   },
+   "spSettingsTabNotificationsAccommodationsPopular": {
+      "message": "Mostra hotels populars de la zona sol·licitada"
+   },
+   "spSettingsTabNotificationsAccommodationsShowBetter": {
+      "message": "Mostra quan hi hagi ofertes d'hotels a millor preu disponibles"
+   },
+   "spSettingsTabNotificationsAccommodationsSimilar": {
+      "message": "Mostra hotels alternatius que s'ajustin al que demano"
+   },
+   "spSettingsTabNotificationsCoupons": {
+      "message": "Cupons"
+   },
+   "spSettingsTabNotificationsCouponsHide": {
+      "message": "No m'avisis sobre cupons"
+   },
+   "spSettingsTabNotificationsCouponsHideDesc": {
+      "message": "(podreu veure els cupons a tota hora clicant la icona de la barra d'eines)"
+   },
+   "spSettingsTabNotificationsCouponsShowAll": {
+      "message": "Mostra quan hi hagi un cupó disponible"
+   },
+   "spSettingsTabNotificationsCouponsShowOnce": {
+      "message": "Mostra només una vegada a cada pàgina web"
+   },
+   "spSettingsTabNotificationsOffers": {
+      "message": "Ofertes"
+   },
+   "spSettingsTabNotificationsOffersBetter": {
+      "message": "Mostra només quan hi hagi ofertes de botigues electròniques que millorin el preu original"
+   },
+   "spSettingsTabNotificationsOffersHideAll": {
+      "message": "No m'avisis sobre ofertes de botigues electròniques"
+   },
+   "spSettingsTabNotificationsOffersHideAllDesc": {
+      "message": "(podreu veure les ofertes a tota hora clicant la icona de la barra d'eines)"
+   },
+   "spSettingsTabNotificationsOffersShowAll": {
+      "message": "Mostra quan hi hagi ofertes de botigues electròniques disponibles"
+   },
+   "spSettingsTabNotificationsOffersTitle": {
+      "message": "Ofertes de botigues electròniques"
+   },
+   "spSettingsTabNotificationsOthers": {
+      "message": "Altres"
+   },
+   "spSettingsTabNotificationsOthersDesc": {
+      "message": "Avisa'm sobre ofertes especials d'altres categories (transport, finances i fonts d'alimentació, entre d'altres)"
+   },
+   "spSettingsTabNotificationsOthersTitle": {
+      "message": "Ofertes especials"
+   },
+   "spSettingsTooltip": {
+      "message": "Configuració"
+   },
+   "spShippingLabel": {
+      "message": "Enviament des de"
+   },
+   "spShowAll": {
+      "message": "MOSTRA-HO TOT"
+   },
+   "spShowNotificationMessage": {
+      "message": "MOSTRA"
+   },
+   "spShowNotificationRedirectMessage": {
+      "message": "Mireu què hem trobat!"
+   },
+   "spSimilarHotelsMessage": {
+      "message": "Hotels alternatius"
+   },
+   "spSimilarHotelsNotificationMessage": {
+      "message": "S'han trobat hotels alternatius!"
+   },
+   "spSiteNotVerified": {
+      "message": "No és fiable comprar en aquest lloc"
+   },
+   "spSiteNotVerifiedHover": {
+      "message": "Aquest lloc web ha estat identificat com de baixa reputació. Totes les ofertes que trobem venen d'un lloc web segur, de manera que us suggerim que cliqueu en una de les ofertes anteriors o, simplement, que ho intenteu en un altre lloc."
+   },
+   "spSiteUntrustworthy": {
+      "message": "Aquest lloc web ha estat identificat com de baixa reputació"
+   },
+   "spSiteUntrustworthyDesc": {
+      "message": "Us suggerim que compreu en un altre lloc, perquè els clients no han valorat bé aquest lloc web."
+   },
+   "spSiteVerified": {
+      "message": "Aquest lloc està verificat i és segur comprar-hi"
+   },
+   "spSocialShare": {
+      "description": "It is showed up to users in order to make them share SafePrice on Social Networks",
+      "message": "Us agrada estalviar? Feu-ho saber!"
+   },
+   "spSocialShareFb": {
+      "description": "It is showed up to users in order to make them share SafePrice on Facebook",
+      "message": "Comparteix"
+   },
+   "spSocialSharetttr": {
+      "description": "It is showed up to users in order to make them share SafePrice on Twitter",
+      "message": "Tuiteja"
+   },
+   "spTellUsMore": {
+      "message": "Aporta'ns més informació"
+   },
+   "spThanksForVoting": {
+      "message": "Gràcies per ajudar-nos a millorar SafePrice"
+   },
+   "spTrySearchDeals": {
+      "description": "%s is the domain. Ex: Amazon.com",
+      "message": "Proveu de cercar ofertes a %s"
+   },
+   "spTrySearchInAmazon": {
+      "description": "%s is the domain. Ex: Amazon.com",
+      "message": "Proveu de fer una cerca a %s"
+   }
+}

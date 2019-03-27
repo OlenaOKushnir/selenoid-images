@@ -1,0 +1,120 @@
+<style type="text/css">
+
+.wa-crypto-banner {
+  width: 100%; 
+  height: 50px; 
+  background: #F0F5F9; 
+  border-bottom: 2px solid #C01818; 
+  display: inline-flex; 
+  align-items: center; 
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+.wa-logo {
+  margin: 0px 12px 0px 12px; 
+  width: 175px; 
+  display: flex; 
+  justify-content: flex-start; 
+  align-items: center;
+}
+
+.wa-img-logo {
+  width: 175px;
+  object-fit: contain;
+}
+
+.wa-close {
+  width: 10px; 
+  height: 10px; 
+  display:flex; 
+  justify-content: center; 
+  align-items: center; 
+  margin: 0px 12px 0px 12px; 
+  cursor: pointer;
+}
+
+.wa-img-close {
+  height: 10px; 
+  object-fit: contain;
+}
+
+.wa-allow-button {
+  margin-left: 15px; 
+  cursor: pointer; 
+  min-width: 200px; 
+  padding: 0px 10px 0px 10px; 
+  height: 28px; 
+  line-height: 16px; 
+  font-size: 14px; 
+  color: #53565A; 
+  border: 1px solid #53565A; 
+  font-family: 'Arial'; 
+  display: flex; 
+  border-radius: 2px; 
+  justify-content: center; 
+  align-items: center;
+}
+
+.wa-learn-more {
+  cursor: pointer; 
+  color: #00AEEF;
+}
+
+.wa-content-body {
+  flex: 1;
+  margin-left: 15px;
+  min-width: 405px;
+  font-size: 14px; 
+  color: #53565A; 
+  font-family: 'Arial';
+}
+
+.wa-body-wrapper {
+  display: flex; 
+  align-items: center; 
+  justify-content: flex-end; 
+  flex-direction: row; 
+  width: 100%;  
+}
+
+
+.wa-slide-in {
+	animation: wa-slide-inwards 1.2s forwards; 
+}
+
+.wa-slide-out {
+ 	animation: wa-slide-outwards 1.2s forwards; 
+}
+
+@keyframes wa-slide-inwards {
+	0% {top: -65px; }
+    100% { top: 0; }
+}
+
+@keyframes wa-slide-outwards {
+	0% { top: 0px; }
+	100% { top: -65px; }
+}
+
+
+
+</style>
+
+<div id="wa-crypto-banner" class="wa-crypto-banner">
+     <div class="wa-logo">
+        <img class="wa-img-logo" src="crypto/logo.png">
+    </div>
+    
+    <div style="flex: 1;  display: flex;">
+        <div class="wa-body-wrapper">
+            <div id="wa-content-body" class="wa-content-body">
+                <span id="wa-learn-more" class="wa-learn-more"></span>
+            </div>
+            <div id="wa-allow-button" class="wa-allow-button"></div>
+        </div>
+    </div>
+    
+    <div id="wa-close" class="wa-close">
+        <img class="wa-img-close" src="crypto/close-checklist.png">
+    </div>
+</div>

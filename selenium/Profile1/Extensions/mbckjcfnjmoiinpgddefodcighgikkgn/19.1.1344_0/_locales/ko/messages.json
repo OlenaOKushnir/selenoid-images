@@ -1,0 +1,609 @@
+{
+   "avastAppDesc": {
+      "description": "max 132 chars are allowed for this message",
+      "message": "Avast에서 제공하는 가격 비교와 쿠폰 확장을 통해 온라인 쇼핑을 하는 동안 최저가, 최고의 거래 및 쿠폰을 찾아보십시오."
+   },
+   "avastAppLongName": {
+      "message": "Avast SafePrice | Price comparison, deals and coupons on safe shopping sites - Save Money"
+   },
+   "avastAppName": {
+      "message": "Avast SafePrice"
+   },
+   "avastAppShortName": {
+      "message": "Avast SafePrice | 비교, 거래, 쿠폰"
+   },
+   "avgAppDesc": {
+      "description": "max 132 chars are allowed for this message",
+      "message": "AVG에서 제공하는 가격 비교와 쿠폰 확장을 통해 온라인 쇼핑을 하는 동안 최저가, 최고의 거래 및 쿠폰을 찾아보십시오."
+   },
+   "avgAppLongName": {
+      "message": "AVG SafePrice | Price comparison, deals and coupons on safe shopping sites - Save Money"
+   },
+   "avgAppName": {
+      "message": "AVG SafePrice"
+   },
+   "avgAppShortName": {
+      "message": "AVG SafePrice | 비교, 거래, 쿠폰"
+   },
+   "safePriceAskMeLater": {
+      "description": "It is showed to the user on the rating screen in order to offer it to rate extension later",
+      "message": "나중에 묻기"
+   },
+   "safePriceEnjoyQuestion_AVG": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "AVG SafePrice를 \u003Cbr> 즐겁게 사용하고 계십니까?"
+   },
+   "safePriceEnjoyQuestion_Avast": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "Avast SafePrice를 \u003Cbr> 즐겁게 사용하고 계십니까?"
+   },
+   "safePriceLeaveRating": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "고객님의 귀중한 평가 부탁드립니다."
+   },
+   "sasAnswerNo": {
+      "message": "아니요"
+   },
+   "sasAnswerYes": {
+      "message": "예"
+   },
+   "sasClickToCopy": {
+      "message": "복사하려면 클릭"
+   },
+   "sasCouponAppliedOnPage": {
+      "message": "이 페이지에 적용된 쿠폰"
+   },
+   "sasCouponCodeCopied": {
+      "message": "코드가 클립보드로 복사되었습니다."
+   },
+   "sasGladYouLike": {
+      "message": "마음에 드신다니 다행입니다!"
+   },
+   "sasHintSettings": {
+      "message": "설정"
+   },
+   "sasOpenShop": {
+      "message": "쇼핑몰 열기"
+   },
+   "sasRate": {
+      "message": "지금 평가"
+   },
+   "sasSorry": {
+      "message": "아쉽습니다."
+   },
+   "sasWhatToDo": {
+      "message": "개선할 점이 무엇입니까?"
+   },
+   "sasfeedback": {
+      "message": "피드백 보내기"
+   },
+   "save": {
+      "message": "절약"
+   },
+   "spAdditionalFees": {
+      "message": "추가 수수료 및 세금이 적용될 수 있습니다."
+   },
+   "spAfterCloseTooltip": {
+      "description": "Small tooltips showed to the user after closing UI in order to remain users how to get UI back.",
+      "message": "도구 모음 아이콘을 클릭하면 항상 세이프 프라이스 오퍼 및 쿠폰을 찾을 수 있습니다."
+   },
+   "spAfterCloseTooltipGotIt": {
+      "description": "Confirm message showed on Small tooltips showed to the user after closing UI in order to remain users how to get UI back.",
+      "message": "확인!"
+   },
+   "spApply": {
+      "message": "쿠폰 적용"
+   },
+   "spAvailableCoupons": {
+      "message": "이용 가능한 쿠폰"
+   },
+   "spAvailableHotels": {
+      "message": "이용 가능한 호텔"
+   },
+   "spAvailableOffers": {
+      "message": "이용 가능한 서비스 및 제품"
+   },
+   "spAvailableOthers": {
+      "message": "특별 혜택"
+   },
+   "spBetterOfferLowerPricesNotificationMessage": {
+      "message": "최저 가격"
+   },
+   "spBetterOffersNotificationBarMessage": {
+      "message": "주목! 더 많은 제품"
+   },
+   "spBetterOffersNotificationMessage": {
+      "message": "주목!\u003Cbr>더 많은 제품"
+   },
+   "spBetterSpecialDealsNotificationBarMessage": {
+      "message": "더 많은 거래, 더 큰 할인!"
+   },
+   "spBetterSpecialDealsNotificationMessage": {
+      "message": "더 많은 거래,\u003Cbr>더 큰 할인!"
+   },
+   "spCityHotelNotificationMessage": {
+      "message": "인기 호텔:"
+   },
+   "spClickThenPaste": {
+      "message": "결제 시 클릭 후 붙여넣기:"
+   },
+   "spClickThenPasteSearchResult": {
+      "description": "%s is the name of the domain where coupon was applied",
+      "message": "\u003Cspan class='asp-shopname-span'>%s\u003C/span>에서 결제 시 클릭 후 붙여넣기:"
+   },
+   "spCloseTooltip": {
+      "message": "닫기"
+   },
+   "spCodeCopied": {
+      "message": "복사됨"
+   },
+   "spConnectionNotSecure": {
+      "message": "안전하지 않은 연결입니다"
+   },
+   "spConnectionNotSecureHover": {
+      "message": "이 웹 사이트에는 유효한 https 인증서가 없으므로 개인 정보를 완벽하게 보호할 수 없습니다."
+   },
+   "spConnectionSecure": {
+      "message": "안전한 연결입니다"
+   },
+   "spCopyAtCheckOut": {
+      "message": "결제 시 복사 및 붙여넣기:"
+   },
+   "spCouponApplied": {
+      "message": "쿠폰 적용됨."
+   },
+   "spCouponCodeWorks": {
+      "message": "이 코드가 적용되었습니까?"
+   },
+   "spCouponWorks": {
+      "message": "이 쿠폰이 적용되었습니까?"
+   },
+   "spCouponsAvailableText": {
+      "message": "이용 가능"
+   },
+   "spCouponsExpiration": {
+      "message": "만료 날짜: "
+   },
+   "spCouponsFor": {
+      "description": "%s is the domain where the coupons can be applied",
+      "message": "%s에 대한 쿠폰"
+   },
+   "spCouponsNotificationMessage": {
+      "message": "쿠폰을 사용해 할인받기"
+   },
+   "spCouponsNotificationSaveTextMessage": {
+      "message": "최대 할인"
+   },
+   "spCouponsSearchIconHover": {
+      "message": "쿠폰 검색"
+   },
+   "spCouponsSearchInput": {
+      "message": "브랜드 또는 온라인 상점 검색"
+   },
+   "spCouponsSelected": {
+      "message": "선택된 쿠폰: "
+   },
+   "spCouponsSelectedText": {
+      "message": "선택됨"
+   },
+   "spCouponsTab": {
+      "message": "쿠폰"
+   },
+   "spEShopName": {
+      "message": "온라인 쇼핑몰 이름*"
+   },
+   "spFeedback": {
+      "message": "피드백"
+   },
+   "spFeedbackGeneral": {
+      "message": "일반 피드백"
+   },
+   "spFeedbackGeneralDesc": {
+      "message": "SafePrice 이용 경험에 대해 무엇이 좋았고 무엇을 개선할 수 있는지 말씀해 주십시오."
+   },
+   "spFeedbackLinkToProductPage": {
+      "message": "제품 페이지 링크"
+   },
+   "spFeedbackNext": {
+      "message": "다음"
+   },
+   "spFeedbackOnlineStoreName": {
+      "message": "온라인 상점 이름*"
+   },
+   "spFeedbackOther": {
+      "message": "기타"
+   },
+   "spFeedbackPaidAndNotGet": {
+      "message": "결제했지만 제품이 배송되지 않음"
+   },
+   "spFeedbackProblem": {
+      "message": "어떤 문제였습니까? \u003Cspan class='asp-required-span'>(필수)\u003C/span>"
+   },
+   "spFeedbackProductOrdered": {
+      "message": "주문 제품"
+   },
+   "spFeedbackReportOnlineStore": {
+      "message": "온라인 상점 신고"
+   },
+   "spFeedbackReportOnlineStoreDesc": {
+      "message": "다른 사람들을 위험에 빠뜨릴 수 있는 신뢰할 수 없거나 모조 사이트를 알려 주십시오."
+   },
+   "spFeedbackRetailerMerchant": {
+      "message": "소매업체 또는 판매업체"
+   },
+   "spFeedbackSPExp": {
+      "message": "세이프 프라이스 이용 경험을 말씀해 주십시오."
+   },
+   "spFeedbackSend": {
+      "message": "보내기"
+   },
+   "spFeedbackShare": {
+      "message": "피드백 공유"
+   },
+   "spFeedbackSomethingDifferent": {
+      "message": "주문한 제품이 아닌 다른 제품이 배송됨"
+   },
+   "spFeedbackThanks": {
+      "message": "의견을 보내주셔서 감사합니다!"
+   },
+   "spFeedbackWhatWasTheProblem": {
+      "message": "어떤 문제였는지 간단히 설명해 주십시오."
+   },
+   "spFeedbackWhichOnlineStoreReporting": {
+      "message": "어떤 온라인 상점을 신고하고 있습니까? \u003Cspan class='asp-required-span'>(*필수)\u003C/span>"
+   },
+   "spFeedbackWriteAComment": {
+      "message": "의견 작성"
+   },
+   "spFeedbackback": {
+      "message": "뒤로"
+   },
+   "spGetCouponCode": {
+      "message": "코드 받기"
+   },
+   "spGreatDeal": {
+      "message": "좋습니다"
+   },
+   "spHelpTooltip": {
+      "message": "도움말"
+   },
+   "spITrustThisSite": {
+      "message": "이 사이트를 신뢰함"
+   },
+   "spLeaveSite": {
+      "message": "사이트 나가기"
+   },
+   "spLinkToProductPage": {
+      "message": "제품 페이지 링크"
+   },
+   "spLoadingNotificationDescriptionMessage": {
+      "message": "기다릴만한 가치가 있음을 약속드립니다."
+   },
+   "spLoadingNotificationMessage": {
+      "message": "거래 검색 중..."
+   },
+   "spMinimizeTooltip": {
+      "message": "최소화"
+   },
+   "spNoResultsFound": {
+      "description": "%s is the domain where we couldn't find coupons or can be also, what the user wrote on our seach input",
+      "message": "%s에 대한 결과를 \u003Cbr> 찾지 못함"
+   },
+   "spNoResultsFoundCoupons": {
+      "description": "%s is the domain where we couldn't find coupons or can be also, what the user wrote on our seach input",
+      "message": "%s에 대한 쿠폰을 \u003Cbr> 찾지 못함"
+   },
+   "spNoResultsFoundCouponsNow": {
+      "description": "%s is the domain where we couldn't find offer",
+      "message": "지금은 쿠폰이 없음"
+   },
+   "spNoResultsFoundOffers": {
+      "description": "%s is the domain where we couldn't find offer",
+      "message": "지금은 제품이 없음"
+   },
+   "spNoResultsFoundOffersBasedOnQuery": {
+      "description": "%s is the title of the product for which we couldn't find offers or can be also, what the user wrote on our seach input",
+      "message": "%s에 대한 제품을 \u003Cbr> 찾지 못함"
+   },
+   "spNoresultsFoundForOthers": {
+      "message": "지금은 특가 상품이 \u003Cbr> 없음"
+   },
+   "spNothingFoundCoupons": {
+      "message": "이런...\u003Cbr>쿠폰이 없습니다..."
+   },
+   "spNothingFoundOffers": {
+      "message": "이런...\u003Cbr>제품이 없습니다..."
+   },
+   "spNothingFoundOthers": {
+      "message": "이런...\u003Cbr>특별 거래가 없습니다..."
+   },
+   "spNotificationRedirectShowLessMessage": {
+      "message": "간단히"
+   },
+   "spNotificationRedirectShowMoreMessage": {
+      "message": "자세히"
+   },
+   "spNotificationRedirectShowRedirectMessage": {
+      "message": "거래 표시"
+   },
+   "spOffersAndCouponsNotificationMessage": {
+      "message": "제품 및 쿠폰 발견. 운이 좋네요!"
+   },
+   "spOffersTab": {
+      "message": "제품"
+   },
+   "spOnboardingSearchCoupons": {
+      "message": "여기서 쿠폰 검색 시작"
+   },
+   "spOnboardingSearchOffers": {
+      "message": "여기서 혜택 검색 시작"
+   },
+   "spOnboardingSettingsButton": {
+      "message": "확인"
+   },
+   "spOnboardingSettingsMsg": {
+      "message": "제품 및 쿠폰을 표시하는 빈도 설정"
+   },
+   "spOther": {
+      "message": "기타"
+   },
+   "spOthersTab": {
+      "message": "기타"
+   },
+   "spPhishingSite": {
+      "message": "이 웹사이트는 피싱 사이트로 표시되었습니다"
+   },
+   "spPhishingSiteDesc": {
+      "message": "피싱은 사용자 이름, 비밀번호 및 신용카드 정보 등의 중요한 정보를 가로채려고 시도하는 것입니다."
+   },
+   "spProductBestOfferTitle": {
+      "message": "최저가"
+   },
+   "spProductOrdered": {
+      "message": "주문 제품"
+   },
+   "spProductSimilarOffersTitle": {
+      "message": "비슷한 제품"
+   },
+   "spProductsSearchIconHover": {
+      "message": "제품 검색"
+   },
+   "spProductsSearchInput": {
+      "message": "제품 검색"
+   },
+   "spRateCouponsThanks": {
+      "message": "감사합니다."
+   },
+   "spRecommend": {
+      "message": "추천"
+   },
+   "spRecommendESHop": {
+      "message": "추천 온라인 쇼핑몰"
+   },
+   "spRecommendExcellentSelectionOfProducts": {
+      "message": "제품 선택 범위가 다양함"
+   },
+   "spRecommendGreatCcustomerService": {
+      "message": "우수한 고객 서비스"
+   },
+   "spRecommendGreatValue": {
+      "message": "품질이 뛰어난 제품"
+   },
+   "spRecommendWhy": {
+      "message": "이 온라인 쇼핑몰을 추천하는 이유는?*"
+   },
+   "spReport": {
+      "message": "신고"
+   },
+   "spReportESHop": {
+      "message": "온라인 쇼핑몰 신고"
+   },
+   "spReportGetSomethingDifferent": {
+      "message": "주문한 제품이 아닌 다른 제품이 배송됨"
+   },
+   "spReportPaidAndNotGet": {
+      "message": "결제했지만 제품이 배송되지 않음"
+   },
+   "spReportTreatedMePoorly": {
+      "message": "불친절한 고객 서비스"
+   },
+   "spReportWhy": {
+      "message": "이 온라인 쇼핑몰을 신고하는 이유는?*"
+   },
+   "spRequired": {
+      "message": "* 필수"
+   },
+   "spSearchCouponAppliedOnPage": {
+      "description": "%s is the name of the domain where coupon was applied",
+      "message": "\u003Cspan class='asp-shopname-span'>%s\u003C/span>에서 쿠폰이 적용됨."
+   },
+   "spSearchForCoupons": {
+      "message": "쿠폰을 받으려면 브랜드 또는 \u003Cbr>온라인 상점을 검색하세요"
+   },
+   "spSearchForOffers": {
+      "message": "구매하려면 제품을 \u003Cbr> 검색하세요"
+   },
+   "spSearchInAmazon": {
+      "description": "%s is the name of the domain. Ex: amazon",
+      "message": "%s에서 검색"
+   },
+   "spSelectedCoupons": {
+      "message": "선택한 쿠폰"
+   },
+   "spSettingsPageCancel": {
+      "message": "취소"
+   },
+   "spSettingsPageCustomList": {
+      "message": "사용자 지정 목록"
+   },
+   "spSettingsPageCustomListItemAdd": {
+      "message": "추가"
+   },
+   "spSettingsPageCustomListItemAddSite": {
+      "message": "사이트 추가"
+   },
+   "spSettingsPageCustomListTitle": {
+      "message": "다음 웹 사이트에서는 모든 알림 표시 안 함"
+   },
+   "spSettingsPageCustomListTitleDesc": {
+      "message": "(도구 모음 아이콘을 클릭하면 항상 제품 및 쿠폰을 볼 수 있음)"
+   },
+   "spSettingsPageHelp": {
+      "message": "도움말"
+   },
+   "spSettingsPageHelpCouponsTitle": {
+      "message": "3. 쿠폰"
+   },
+   "spSettingsPageHelpCouponsTitleDesc": {
+      "message": "쿠폰을 클릭하기만 하면 사용할 수 있습니다. 쿠폰에 코드가 표시될 경우 결제 시 코드를 적절한 필드로 붙여넣어야 합니다. 코드가 표시되지 않을 경우에는 쿠폰이 작동으로 적용됩니다."
+   },
+   "spSettingsPageHelpFAQsTitle": {
+      "message": "자세한 내용은 \u003Cspan class='asp-faqs-span'>FAQ\u003C/span>에서 확인하십시오."
+   },
+   "spSettingsPageHelpNotificationsTitle": {
+      "message": "1. 알림"
+   },
+   "spSettingsPageHelpNotificationsTitleDesc": {
+      "message": "SafePrice에서 검색 내용과 관련된 제품 또는 쿠폰을 발견하게 되면 알림이 나타납니다. 큰 녹색 버튼을 클릭하면 결과를 확인할 수 있습니다."
+   },
+   "spSettingsPageHelpOffersTitle": {
+      "message": "2. 제품"
+   },
+   "spSettingsPageHelpOffersTitleDesc": {
+      "message": "제품을 클릭하면 파트너의 신뢰할 수 있는 온라인 상점으로 이동하여 알림에 있는 새 가격으로 구매할 수 있습니다."
+   },
+   "spSettingsPageHelpOthersTitle": {
+      "message": "4. 기타"
+   },
+   "spSettingsPageHelpOthersTitleDesc": {
+      "message": "나열된 특별 거래를 클릭하면 파트너의 신뢰할 수 있는 온라인 상점으로 이동합니다."
+   },
+   "spSettingsPageSave": {
+      "message": "저장"
+   },
+   "spSettingsPageTitleAvast": {
+      "message": "Avast SafePrice 설정"
+   },
+   "spSettingsPageTitleAvg": {
+      "message": "AVG SafePrice 설정"
+   },
+   "spSettingsTabNotificationAccommodationsTitle": {
+      "message": "숙박 시설 상품"
+   },
+   "spSettingsTabNotifications": {
+      "message": "알림"
+   },
+   "spSettingsTabNotificationsAccommodationsPopular": {
+      "message": "요청 지역의 인기 호텔 표시"
+   },
+   "spSettingsTabNotificationsAccommodationsShowBetter": {
+      "message": "더 낮은 호텔 가격이 있을 때마다 표시"
+   },
+   "spSettingsTabNotificationsAccommodationsSimilar": {
+      "message": "요청한 호텔과 다른 호텔 표시"
+   },
+   "spSettingsTabNotificationsCoupons": {
+      "message": "쿠폰"
+   },
+   "spSettingsTabNotificationsCouponsHide": {
+      "message": "쿠폰 알림 사용 안 함"
+   },
+   "spSettingsTabNotificationsCouponsHideDesc": {
+      "message": "(도구 모음 아이콘을 클릭하면 항상 쿠폰을 볼 수 있음)"
+   },
+   "spSettingsTabNotificationsCouponsShowAll": {
+      "message": "쿠폰이 있을 때마다 표시"
+   },
+   "spSettingsTabNotificationsCouponsShowOnce": {
+      "message": "각 웹사이트당 한 번만 표시"
+   },
+   "spSettingsTabNotificationsOffers": {
+      "message": "제품"
+   },
+   "spSettingsTabNotificationsOffersBetter": {
+      "message": "정가보다 낮은 가격의 온라인 쇼핑몰 제품이 있을 때만 표시"
+   },
+   "spSettingsTabNotificationsOffersHideAll": {
+      "message": "온라인 쇼핑몰 제품 알림 사용 안 함"
+   },
+   "spSettingsTabNotificationsOffersHideAllDesc": {
+      "message": "(도구 모음 아이콘을 클릭하면 항상 제품을 볼 수 있음)"
+   },
+   "spSettingsTabNotificationsOffersShowAll": {
+      "message": "온라인 쇼핑몰 제품이 있을 때마다 표시"
+   },
+   "spSettingsTabNotificationsOffersTitle": {
+      "message": "온라인 쇼핑몰 제품"
+   },
+   "spSettingsTabNotificationsOthers": {
+      "message": "기타"
+   },
+   "spSettingsTabNotificationsOthersDesc": {
+      "message": "다른 범주(교통, 금융, 전원 공급 장치 등)의 특별 거래 알림 사용"
+   },
+   "spSettingsTabNotificationsOthersTitle": {
+      "message": "특가 상품"
+   },
+   "spSettingsTooltip": {
+      "message": "설정"
+   },
+   "spShippingLabel": {
+      "message": "배송비"
+   },
+   "spShowAll": {
+      "message": "모두 표시"
+   },
+   "spShowNotificationMessage": {
+      "message": "표시"
+   },
+   "spShowNotificationRedirectMessage": {
+      "message": "결과를 확인하세요!"
+   },
+   "spSimilarHotelsMessage": {
+      "message": "다른 호텔"
+   },
+   "spSimilarHotelsNotificationMessage": {
+      "message": "다른 호텔 발견!"
+   },
+   "spSiteNotVerified": {
+      "message": "이 쇼핑 사이트는 신뢰할 수 없습니다"
+   },
+   "spSiteNotVerifiedHover": {
+      "message": "이 웹 사이트는 신뢰할 수 없는 것으로 확인되었습니다. 당사에서 검색한 모든 거래는 안전한 웹 사이트에서 제공되는 것이므로 위의 제안 중 하나를 클릭하거나 다른 기능을 사용해 보십시오."
+   },
+   "spSiteUntrustworthy": {
+      "message": "이 웹 사이트는 신뢰할 수 없는 사이트로 확인되었습니다"
+   },
+   "spSiteUntrustworthyDesc": {
+      "message": "고객의 평점이 낮으므로 다른 장소에서 쇼핑을 하는 것이 좋습니다."
+   },
+   "spSiteVerified": {
+      "message": "이 쇼핑 사이트는 안전한 것으로 확인되었습니다"
+   },
+   "spSocialShare": {
+      "description": "It is showed up to users in order to make them share SafePrice on Social Networks",
+      "message": "즐겁게 절약하셨습니까? 사랑을 나눠주세요!"
+   },
+   "spSocialShareFb": {
+      "description": "It is showed up to users in order to make them share SafePrice on Facebook",
+      "message": "공유"
+   },
+   "spSocialSharetttr": {
+      "description": "It is showed up to users in order to make them share SafePrice on Twitter",
+      "message": "트윗"
+   },
+   "spTellUsMore": {
+      "message": "추가 정보"
+   },
+   "spThanksForVoting": {
+      "message": "SafePrice를 향상하는 데 도움을 주셔서 감사합니다"
+   },
+   "spTrySearchDeals": {
+      "description": "%s is the domain. Ex: Amazon.com",
+      "message": "%s에서 특가 검색 시도"
+   },
+   "spTrySearchInAmazon": {
+      "description": "%s is the domain. Ex: Amazon.com",
+      "message": "%s에서 검색 시도"
+   }
+}

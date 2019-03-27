@@ -1,0 +1,609 @@
+{
+   "avastAppDesc": {
+      "description": "max 132 chars are allowed for this message",
+      "message": "Βρείτε τις καλύτερες τιμές, προσφορές και κουπόνια στις online αγορές σας, με σύγκριση τιμών και επέκταση κουπονιών από την Avast."
+   },
+   "avastAppLongName": {
+      "message": "Avast SafePrice | Price comparison, deals and coupons on safe shopping sites - Save Money"
+   },
+   "avastAppName": {
+      "message": "Avast SafePrice"
+   },
+   "avastAppShortName": {
+      "message": "Avast SafePrice | Σύγκριση, προσφορές, κουπόνια"
+   },
+   "avgAppDesc": {
+      "description": "max 132 chars are allowed for this message",
+      "message": "Βρείτε τις καλύτερες τιμές, προσφορές και κουπόνια στις online αγορές σας, με σύγκριση τιμών και επέκταση κουπονιών από την AVG."
+   },
+   "avgAppLongName": {
+      "message": "AVG SafePrice | Price comparison, deals and coupons on safe shopping sites - Save Money"
+   },
+   "avgAppName": {
+      "message": "AVG SafePrice"
+   },
+   "avgAppShortName": {
+      "message": "AVG SafePrice | Σύγκριση, προσφορές, κουπόνια"
+   },
+   "safePriceAskMeLater": {
+      "description": "It is showed to the user on the rating screen in order to offer it to rate extension later",
+      "message": "Να ερωτηθώ αργότερα"
+   },
+   "safePriceEnjoyQuestion_AVG": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "Απολαμβάνετε τη χρήση του \u003Cbr> AVG SafePrice;"
+   },
+   "safePriceEnjoyQuestion_Avast": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "Απολαμβάνετε τη χρήση του \u003Cbr> Avast SafePrice;"
+   },
+   "safePriceLeaveRating": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "Βαθμολογήστε μας για να δείξετε την αγάπη σας."
+   },
+   "sasAnswerNo": {
+      "message": "όχι"
+   },
+   "sasAnswerYes": {
+      "message": "ναι"
+   },
+   "sasClickToCopy": {
+      "message": "Κάντε κλικ για αντιγραφή"
+   },
+   "sasCouponAppliedOnPage": {
+      "message": "Εφαρμόστηκε κουπόνι σε αυτήν τη σελίδα"
+   },
+   "sasCouponCodeCopied": {
+      "message": "Ο κωδικός έκπτωσης έχει αντιγραφεί στο Πρόχειρο."
+   },
+   "sasGladYouLike": {
+      "message": "Χαιρόμαστε που σας αρέσει!"
+   },
+   "sasHintSettings": {
+      "message": "Ρυθμίσεις"
+   },
+   "sasOpenShop": {
+      "message": "Άνοιγμα μαγαζιού"
+   },
+   "sasRate": {
+      "message": "Βαθμολογήστε"
+   },
+   "sasSorry": {
+      "message": "Λυπούμαστε για αυτό"
+   },
+   "sasWhatToDo": {
+      "message": "Τι μπορούμε να κάνουμε για να βελτιωθούμε;"
+   },
+   "sasfeedback": {
+      "message": "γράψτε τα σχόλιά σας"
+   },
+   "save": {
+      "message": "Κερδίστε"
+   },
+   "spAdditionalFees": {
+      "message": "Ενδέχεται να ισχύουν πρόσθετες χρεώσεις & φόροι"
+   },
+   "spAfterCloseTooltip": {
+      "description": "Small tooltips showed to the user after closing UI in order to remain users how to get UI back.",
+      "message": "Μπορείτε να βρείτε προσφορές και κουπόνια SafePrice από το εικονίδιο της γραμμής εργαλείων."
+   },
+   "spAfterCloseTooltipGotIt": {
+      "description": "Confirm message showed on Small tooltips showed to the user after closing UI in order to remain users how to get UI back.",
+      "message": "ΈΓΙΝΕ!"
+   },
+   "spApply": {
+      "message": "Εφαρμογή κουπονιού"
+   },
+   "spAvailableCoupons": {
+      "message": "Διαθέσιμα κουπόνια"
+   },
+   "spAvailableHotels": {
+      "message": "Διαθέσιμα ξενοδοχεία"
+   },
+   "spAvailableOffers": {
+      "message": "Διαθέσιμες προσφορές"
+   },
+   "spAvailableOthers": {
+      "message": "Ειδική προσφορά"
+   },
+   "spBetterOfferLowerPricesNotificationMessage": {
+      "message": "τιμές χαμηλές μέχρι"
+   },
+   "spBetterOffersNotificationBarMessage": {
+      "message": "Δείτε! Κι άλλες προσφορές"
+   },
+   "spBetterOffersNotificationMessage": {
+      "message": "Δείτε!\u003Cbr>Κι άλλες προσφορές"
+   },
+   "spBetterSpecialDealsNotificationBarMessage": {
+      "message": "Περισσότερες προσφορές, μεγαλύτερη εξοικονόμηση!"
+   },
+   "spBetterSpecialDealsNotificationMessage": {
+      "message": "Περισσότερες προσφορές,\u003Cbr> μεγαλύτερη εξοικονόμηση!"
+   },
+   "spCityHotelNotificationMessage": {
+      "message": "Δημοφιλή ξενοδοχεία:"
+   },
+   "spClickThenPaste": {
+      "message": "Κάντε κλικ και μετά επικόλληση στο ταμείο:"
+   },
+   "spClickThenPasteSearchResult": {
+      "description": "%s is the name of the domain where coupon was applied",
+      "message": "Κάντε κλικ και μετά επικόλληση στο ταμείο στο \u003Cspan class='asp-shopname-span'>%s\u003C/span>:"
+   },
+   "spCloseTooltip": {
+      "message": "Κλείσιμο"
+   },
+   "spCodeCopied": {
+      "message": "αντιγράφηκε"
+   },
+   "spConnectionNotSecure": {
+      "message": "Αυτή η σύνδεση δεν είναι ασφαλής"
+   },
+   "spConnectionNotSecureHover": {
+      "message": "Αυτός ο ιστότοπος δεν διαθέτει έγκυρο πιστοποιητικό https, επομένως δεν προστατεύει πλήρως το απόρρητό σας."
+   },
+   "spConnectionSecure": {
+      "message": "Αυτή η σύνδεση είναι ασφαλής"
+   },
+   "spCopyAtCheckOut": {
+      "message": "Αντιγραφή και επικόλληση στο ταμείο:"
+   },
+   "spCouponApplied": {
+      "message": "Έγινε εφαρμογή του κουπονιού."
+   },
+   "spCouponCodeWorks": {
+      "message": "Δούλεψε σωστά αυτός ο κωδικός;"
+   },
+   "spCouponWorks": {
+      "message": "Δούλεψε σωστά αυτό το κουπόνι;"
+   },
+   "spCouponsAvailableText": {
+      "message": "Διαθέσιμο"
+   },
+   "spCouponsExpiration": {
+      "message": "Λήγει: "
+   },
+   "spCouponsFor": {
+      "description": "%s is the domain where the coupons can be applied",
+      "message": "Κουπόνια για %s"
+   },
+   "spCouponsNotificationMessage": {
+      "message": "Κερδίστε χρήματα μέσω κουπονιών"
+   },
+   "spCouponsNotificationSaveTextMessage": {
+      "message": "Κερδίστε έως και"
+   },
+   "spCouponsSearchIconHover": {
+      "message": "Αναζήτηση κουπονιών"
+   },
+   "spCouponsSearchInput": {
+      "message": "Αναζήτηση εμπορικού σήματος ή ηλεκτρονικών καταστημάτων"
+   },
+   "spCouponsSelected": {
+      "message": "Επιλεγμένα κουπόνια: "
+   },
+   "spCouponsSelectedText": {
+      "message": "Επιλεγμένο"
+   },
+   "spCouponsTab": {
+      "message": "Κουπόνια"
+   },
+   "spEShopName": {
+      "message": "Όνομα e-shop*"
+   },
+   "spFeedback": {
+      "message": "Σχόλια"
+   },
+   "spFeedbackGeneral": {
+      "message": "Γενικά σχόλια"
+   },
+   "spFeedbackGeneralDesc": {
+      "message": "Πείτε μας για την εμπειρία σας με το SafePrice: τι σας άρεσε και τι μπορούμε να βελτιώσουμε."
+   },
+   "spFeedbackLinkToProductPage": {
+      "message": "Σύνδεση σε σελίδα προϊόντος"
+   },
+   "spFeedbackNext": {
+      "message": "επόμενο"
+   },
+   "spFeedbackOnlineStoreName": {
+      "message": "Όνομα ηλεκτρονικού καταστήματος*"
+   },
+   "spFeedbackOther": {
+      "message": "Άλλο"
+   },
+   "spFeedbackPaidAndNotGet": {
+      "message": "Πλήρωσα για ένα προϊόν και δεν έλαβα."
+   },
+   "spFeedbackProblem": {
+      "message": "Ποιο ήταν το πρόβλημα;  \u003Cspan class='asp-required-span'>(υποχρεωτικό)\u003C/span>"
+   },
+   "spFeedbackProductOrdered": {
+      "message": "Προϊόν παραγγελίας"
+   },
+   "spFeedbackReportOnlineStore": {
+      "message": "Καταγγείλετε το ηλεκτρονικό κατάστημα"
+   },
+   "spFeedbackReportOnlineStoreDesc": {
+      "message": "Ενημερώστε μας για αναξιόπιστες ή ψεύτικες ιστοσελίδες που μπορεί να θέσουν σε κίνδυνο άλλους ανθρώπους."
+   },
+   "spFeedbackRetailerMerchant": {
+      "message": "Πωλητής λιανικής ή έμπορος"
+   },
+   "spFeedbackSPExp": {
+      "message": "Πείτε μας για την εμπειρία σας με το SafePrice:"
+   },
+   "spFeedbackSend": {
+      "message": "αποστολή"
+   },
+   "spFeedbackShare": {
+      "message": "Μοιραστείτε τα σχόλιά σας"
+   },
+   "spFeedbackSomethingDifferent": {
+      "message": "Έλαβα κάτι διαφορετικό από αυτό που παρήγγειλα."
+   },
+   "spFeedbackThanks": {
+      "message": "Ευχαριστούμε για τα σχόλιά σας!"
+   },
+   "spFeedbackWhatWasTheProblem": {
+      "message": "Εξηγήστε εν συντομία ποιο ήταν το πρόβλημα."
+   },
+   "spFeedbackWhichOnlineStoreReporting": {
+      "message": "Ποιο ηλεκτρονικό κατάστημα καταγγέλετε; \u003Cspan class='asp-required-span'>(*υποχρεωτικό)\u003C/span>"
+   },
+   "spFeedbackWriteAComment": {
+      "message": "Γράψτε ένα σχόλιο"
+   },
+   "spFeedbackback": {
+      "message": "πίσω"
+   },
+   "spGetCouponCode": {
+      "message": "Λήψη Κωδικού"
+   },
+   "spGreatDeal": {
+      "message": "Φοβερή προσφορά"
+   },
+   "spHelpTooltip": {
+      "message": "Βοήθεια"
+   },
+   "spITrustThisSite": {
+      "message": "Εμπιστεύομαι αυτόν τον ιστότοπο"
+   },
+   "spLeaveSite": {
+      "message": "έξοδος από ιστότοπο"
+   },
+   "spLinkToProductPage": {
+      "message": "Σύνδεση σε σελίδα προϊόντος"
+   },
+   "spLoadingNotificationDescriptionMessage": {
+      "message": "Η αναμονή αξίζει τον κόπο."
+   },
+   "spLoadingNotificationMessage": {
+      "message": "Αναζήτηση προσφορών..."
+   },
+   "spMinimizeTooltip": {
+      "message": "Ελαχιστοποίηση"
+   },
+   "spNoResultsFound": {
+      "description": "%s is the domain where we couldn't find coupons or can be also, what the user wrote on our seach input",
+      "message": "Δεν βρέθηκαν αποτελέσματα για \u003Cbr> %s"
+   },
+   "spNoResultsFoundCoupons": {
+      "description": "%s is the domain where we couldn't find coupons or can be also, what the user wrote on our seach input",
+      "message": "Δεν βρέθηκαν κουπόνια για \u003Cbr> %s"
+   },
+   "spNoResultsFoundCouponsNow": {
+      "description": "%s is the domain where we couldn't find offer",
+      "message": "Δεν βρέθηκε κανένα κουπόνι αυτήν τη στιγμή"
+   },
+   "spNoResultsFoundOffers": {
+      "description": "%s is the domain where we couldn't find offer",
+      "message": "Δεν βρέθηκε καμία προσφορά αυτήν τη στιγμή"
+   },
+   "spNoResultsFoundOffersBasedOnQuery": {
+      "description": "%s is the title of the product for which we couldn't find offers or can be also, what the user wrote on our seach input",
+      "message": "Δεν βρέθηκαν προσφορές για \u003Cbr> %s"
+   },
+   "spNoresultsFoundForOthers": {
+      "message": "Δεν βρέθηκαν ειδικές προσφορές για \u003Cbr> αυτήν τη στιγμή"
+   },
+   "spNothingFoundCoupons": {
+      "message": "Ωχ όχι...\u003Cbr>Δεν βρέθηκαν κουπόνια..."
+   },
+   "spNothingFoundOffers": {
+      "message": "Ωχ όχι...\u003Cbr>Δεν βρέθηκαν προσφορές..."
+   },
+   "spNothingFoundOthers": {
+      "message": "Ωχ όχι...\u003Cbr>Δεν βρέθηκαν ειδικές προσφορές..."
+   },
+   "spNotificationRedirectShowLessMessage": {
+      "message": "Λιγότερα"
+   },
+   "spNotificationRedirectShowMoreMessage": {
+      "message": "Κι άλλα"
+   },
+   "spNotificationRedirectShowRedirectMessage": {
+      "message": "ΕΜΦΑΝΙΣΗ ΠΡΟΣΦΟΡΑΣ"
+   },
+   "spOffersAndCouponsNotificationMessage": {
+      "message": "Βρέθηκαν προσφορές & κουπόνια. Αυτό θα πει τύχη!"
+   },
+   "spOffersTab": {
+      "message": "Προσφορές"
+   },
+   "spOnboardingSearchCoupons": {
+      "message": "Αρχίστε να ψάχνετε για κουπόνια εδώ"
+   },
+   "spOnboardingSearchOffers": {
+      "message": "Αρχίστε να ψάχνετε για προσφορές εδώ"
+   },
+   "spOnboardingSettingsButton": {
+      "message": "ok"
+   },
+   "spOnboardingSettingsMsg": {
+      "message": "Ορίστε πόσο συχνά θέλετε να βλέπετε προσφορές και κουπόνια"
+   },
+   "spOther": {
+      "message": "Άλλο"
+   },
+   "spOthersTab": {
+      "message": "Άλλα"
+   },
+   "spPhishingSite": {
+      "message": "Η ιστοσελίδα έχει επισημανθεί ως ιστοσελίδα ηλεκτρονικού ψαρέματος"
+   },
+   "spPhishingSiteDesc": {
+      "message": "Το ηλεκτρονικό ψάρεμα είναι η απόπειρα απόσπασης ευαίσθητων πληροφοριών, όπως ονόματα χρήστη, κωδικοί πρόσβασης και στοιχεία πιστωτικών καρτών."
+   },
+   "spProductBestOfferTitle": {
+      "message": "Καλύτερη τιμή"
+   },
+   "spProductOrdered": {
+      "message": "Προϊόν παραγγελίας"
+   },
+   "spProductSimilarOffersTitle": {
+      "message": "Παρόμοιες προσφορές"
+   },
+   "spProductsSearchIconHover": {
+      "message": "Αναζήτηση ενός προϊόντος"
+   },
+   "spProductsSearchInput": {
+      "message": "Αναζήτηση προϊόντων"
+   },
+   "spRateCouponsThanks": {
+      "message": "Σας ευχαριστούμε."
+   },
+   "spRecommend": {
+      "message": "προτείνετέ το"
+   },
+   "spRecommendESHop": {
+      "message": "Προτείνετε το e-shop"
+   },
+   "spRecommendExcellentSelectionOfProducts": {
+      "message": "Διαθέτει εξαιρετική επιλογή προϊόντων."
+   },
+   "spRecommendGreatCcustomerService": {
+      "message": "Διαθέτουν φοβερή εξυπηρέτηση πελατών."
+   },
+   "spRecommendGreatValue": {
+      "message": "Διαθέτει φοβερές τιμές."
+   },
+   "spRecommendWhy": {
+      "message": "Γιατί θα προτείνατε αυτό το e-shop;*"
+   },
+   "spReport": {
+      "message": "καταγγελία"
+   },
+   "spReportESHop": {
+      "message": "Καταγγελία του e-shop"
+   },
+   "spReportGetSomethingDifferent": {
+      "message": "Έλαβα κάτι διαφορετικό από αυτό που παρήγγειλα."
+   },
+   "spReportPaidAndNotGet": {
+      "message": "Πλήρωσα για ένα προϊόν και δεν έλαβα."
+   },
+   "spReportTreatedMePoorly": {
+      "message": "Μου φερθήκαν άσχημα ως πελάτη."
+   },
+   "spReportWhy": {
+      "message": "Γιατί καταγγέλετε αυτό το e-shop; *"
+   },
+   "spRequired": {
+      "message": "*υποχρεωτικό"
+   },
+   "spSearchCouponAppliedOnPage": {
+      "description": "%s is the name of the domain where coupon was applied",
+      "message": "Το κουπόνι εφαρμόστηκε στο \u003Cspan class='asp-shopname-span'>%s\u003C/span>."
+   },
+   "spSearchForCoupons": {
+      "message": "Για να λαμβάνετε κουπόνια, αναζητήστε \u003Cbr> ένα εμπορικό σήμα ή ένα ηλεκτρονικό κατάστημα"
+   },
+   "spSearchForOffers": {
+      "message": "Για να λαμβάνετε προσφορές, αναζητήστε \u003Cbr> κάποιο προϊόν"
+   },
+   "spSearchInAmazon": {
+      "description": "%s is the name of the domain. Ex: amazon",
+      "message": "αναζήτηση στο %s"
+   },
+   "spSelectedCoupons": {
+      "message": "Επιλεγμένα κουπόνια"
+   },
+   "spSettingsPageCancel": {
+      "message": "Άκυρο"
+   },
+   "spSettingsPageCustomList": {
+      "message": "Προσαρμοσμένη λίστα"
+   },
+   "spSettingsPageCustomListItemAdd": {
+      "message": "Προσθ."
+   },
+   "spSettingsPageCustomListItemAddSite": {
+      "message": "Προσθ. ιστότοπου"
+   },
+   "spSettingsPageCustomListTitle": {
+      "message": "Να μην εμφανίζονται ειδοποιήσεις στις παρακάτω ιστοσελίδες:"
+   },
+   "spSettingsPageCustomListTitleDesc": {
+      "message": "(θα μπορείτε και πάλι να βλέπετε προσφορές και κουπόνια από το εικονίδιο της γραμμής εργαλείων)"
+   },
+   "spSettingsPageHelp": {
+      "message": "Βοήθεια"
+   },
+   "spSettingsPageHelpCouponsTitle": {
+      "message": "3. Κουπόνια"
+   },
+   "spSettingsPageHelpCouponsTitleDesc": {
+      "message": "Για να χρησιμοποιήσετε ένα κουπόνι, δεν έχετε παρά να κάνετε κλικ σε αυτό. Αν αποκαλύψει κάποιον κώδικα, θα πρέπει να τον επικολλήσετε στο κατάλληλο πεδίο μόλις φτάσετε στο ταμείο. Διαφορετικά, το κουπόνι θα εφαρμοστεί αυτόματα."
+   },
+   "spSettingsPageHelpFAQsTitle": {
+      "message": "Μάθετε περισσότερα στις \u003Cspan class='asp-faqs-span'>Συχνές Ερωτήσεις\u003C/span>."
+   },
+   "spSettingsPageHelpNotificationsTitle": {
+      "message": "1. Ειδοποιήσεις"
+   },
+   "spSettingsPageHelpNotificationsTitleDesc": {
+      "message": "Μόλις το SafePrice βρει προσφορά ή κουπόνι σχετικό με την αναζήτησή σας, θα εμφανιστεί μια ειδοποίηση. Κάντε κλικ στο μεγάλο πράσινο κουμπί και δείτε τι βρήκαμε για εσάς."
+   },
+   "spSettingsPageHelpOffersTitle": {
+      "message": "2. Προσφορές"
+   },
+   "spSettingsPageHelpOffersTitleDesc": {
+      "message": "Αν κάνετε κλικ σε μια προσφορά, θα μεταφερθείτε στο ηλεκτρονικό κατάστημα κάποιου αξιόπιστου συνεργάτη, όπου θα πάρετε τη νέα τιμή που αναγράφεται στην ειδοποίηση."
+   },
+   "spSettingsPageHelpOthersTitle": {
+      "message": "4. Άλλα"
+   },
+   "spSettingsPageHelpOthersTitleDesc": {
+      "message": "Αν κάνετε κλικ σε μια ειδική συμφωνία θα μεταφερθείτε στο αξιόπιστο ηλεκτρονικό κατάστημα κάποιου συνεργάτη."
+   },
+   "spSettingsPageSave": {
+      "message": "Αποθήκ."
+   },
+   "spSettingsPageTitleAvast": {
+      "message": "Ρυθμίσεις του Avast SafePrice"
+   },
+   "spSettingsPageTitleAvg": {
+      "message": "Ρυθμίσεις του AVG SafePrice"
+   },
+   "spSettingsTabNotificationAccommodationsTitle": {
+      "message": "Προσφορές για καταλύματα"
+   },
+   "spSettingsTabNotifications": {
+      "message": "Ειδοποιήσεις"
+   },
+   "spSettingsTabNotificationsAccommodationsPopular": {
+      "message": "Εμφάνιση δημοφιλών ξενοδοχείων στη ζητούμενη περιοχή"
+   },
+   "spSettingsTabNotificationsAccommodationsShowBetter": {
+      "message": "Εμφάνιση όποτε υπάρχει διαθέσιμη καλή τιμή για ξενοδοχεία"
+   },
+   "spSettingsTabNotificationsAccommodationsSimilar": {
+      "message": "Εμφάνιση εναλλακτικών ξενοδοχείων που είναι παρόμοια με ό,τι ψάχνω"
+   },
+   "spSettingsTabNotificationsCoupons": {
+      "message": "Κουπόνια"
+   },
+   "spSettingsTabNotificationsCouponsHide": {
+      "message": "Να μην ειδοποιούμαι σχετικά με κουπόνια"
+   },
+   "spSettingsTabNotificationsCouponsHideDesc": {
+      "message": "(μπορείτε να δείτε κουπόνια οποιαδήποτε στιγμή από το εικονίδιο της γραμμής εργαλείων)"
+   },
+   "spSettingsTabNotificationsCouponsShowAll": {
+      "message": "Εμφάνιση κάθε φορά που υπάρχει διαθέσιμο κουπόνι"
+   },
+   "spSettingsTabNotificationsCouponsShowOnce": {
+      "message": "Εμφάνιση μόνο μία φορά σε κάθε ιστοσελίδα"
+   },
+   "spSettingsTabNotificationsOffers": {
+      "message": "Προσφορές"
+   },
+   "spSettingsTabNotificationsOffersBetter": {
+      "message": "Εμφάνιση μόνο όταν οι προσφορές των e-shop είναι καλύτερες από την αρχική τιμή"
+   },
+   "spSettingsTabNotificationsOffersHideAll": {
+      "message": "Να μην ειδοποιούμαι σχετικά με προσφορές από e-shop"
+   },
+   "spSettingsTabNotificationsOffersHideAllDesc": {
+      "message": "(μπορείτε να δείτε προσφορές οποιαδήποτε στιγμή από το εικονίδιο της γραμμής εργαλείων)"
+   },
+   "spSettingsTabNotificationsOffersShowAll": {
+      "message": "Εμφάνιση κάθε φορά που υπάρχει προσφορά από κάποιο e-shop"
+   },
+   "spSettingsTabNotificationsOffersTitle": {
+      "message": "Προσφορές για e-shop"
+   },
+   "spSettingsTabNotificationsOthers": {
+      "message": "Άλλα"
+   },
+   "spSettingsTabNotificationsOthersDesc": {
+      "message": "Να ειδοποιούμαι σχετικά με ειδικές προσφορές για τις άλλες κατηγορίες (συγκοινωνίες, χρηματοδoτήσεις, παροχή ηλεκτρικού ρεύματος και άλλα)"
+   },
+   "spSettingsTabNotificationsOthersTitle": {
+      "message": "Ειδικές προσφορές"
+   },
+   "spSettingsTooltip": {
+      "message": "Ρυθμίσεις"
+   },
+   "spShippingLabel": {
+      "message": "Ε/Α από"
+   },
+   "spShowAll": {
+      "message": "ΕΜΦΑΝΙΣΗ ΌΛΩΝ"
+   },
+   "spShowNotificationMessage": {
+      "message": "ΕΜΦΑΝΙΣΗ"
+   },
+   "spShowNotificationRedirectMessage": {
+      "message": "Δείτε τι βρήκαμε!"
+   },
+   "spSimilarHotelsMessage": {
+      "message": "Εναλλακτικά ξενοδοχεία"
+   },
+   "spSimilarHotelsNotificationMessage": {
+      "message": "Βρέθηκαν εναλλακτικά ξενοδοχεία!"
+   },
+   "spSiteNotVerified": {
+      "message": "Αυτός ο ιστότοπος είναι αναξιόπιστος για αγορές"
+   },
+   "spSiteNotVerifiedHover": {
+      "message": "Η παρούσα ιστοσελίδα έχει χαρακτηριστεί αναξιόπιστη. Κάθε προσφορά που βρίσκουμε προέρχεται από κάποια ασφαλή ιστοσελίδα, γι' αυτό σας προτείνουμε να κάνετε κλικ σε μία από τις παραπάνω προσφορές ή απλά να ψάξετε κάπου αλλού."
+   },
+   "spSiteUntrustworthy": {
+      "message": "Αυτός ο ιστότοπος έχει χαρακτηριστεί αναξιόπιστος"
+   },
+   "spSiteUntrustworthyDesc": {
+      "message": "Σας προτείνουμε να κάνετε αλλού τις αγορές σας διότι οι πελάτες έχουν δώσει χαμηλή βαθμολογία σε αυτόν τον ιστότοπο."
+   },
+   "spSiteVerified": {
+      "message": "Αυτός ο ιστότοπος έχει επαληθευτεί και είναι ασφαλής για αγορές"
+   },
+   "spSocialShare": {
+      "description": "It is showed up to users in order to make them share SafePrice on Social Networks",
+      "message": "Αγαπάτε την αποταμίευση; Διαδώστε την αγάπη σας!"
+   },
+   "spSocialShareFb": {
+      "description": "It is showed up to users in order to make them share SafePrice on Facebook",
+      "message": "Κοινοποίηση"
+   },
+   "spSocialSharetttr": {
+      "description": "It is showed up to users in order to make them share SafePrice on Twitter",
+      "message": "Tweet"
+   },
+   "spTellUsMore": {
+      "message": "Πείτε μας περισσότερα"
+   },
+   "spThanksForVoting": {
+      "message": "Σας ευχαριστούμε που μας βοηθάται να βελτιώσουμε το SafePrice"
+   },
+   "spTrySearchDeals": {
+      "description": "%s is the domain. Ex: Amazon.com",
+      "message": "Δοκιμάστε να ψάξετε για προσφορές στο %s"
+   },
+   "spTrySearchInAmazon": {
+      "description": "%s is the domain. Ex: Amazon.com",
+      "message": "Δοκιμάστε να ψάξετε στο %s"
+   }
+}

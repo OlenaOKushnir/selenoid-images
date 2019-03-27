@@ -1,0 +1,35 @@
+{
+   "avastAppDesc": {
+      "message": "Find the best prices, deals and coupons while shopping online with the price comparison and coupon extension powered by Avast."
+   },
+   "avastAppLongName": {
+      "message": "Avast SafePrice | Price comparison, deals and coupons on safe shopping sites - Save Money"
+   },
+   "avastAppName": {
+      "message": "Avast SafePrice"
+   },
+   "avastAppShortName": {
+      "message": "Avast SafePrice | Comparison, deals, coupons"
+   },
+   "avgAppDesc": {
+      "message": "Find the best prices, deals and coupons while shopping online with the price comparison and coupon extension powered by AVG."
+   },
+   "avgAppLongName": {
+      "message": "AVG SafePrice | Price comparison, deals and coupons on safe shopping sites - Save Money"
+   },
+   "avgAppName": {
+      "message": "AVG SafePrice"
+   },
+   "avgAppShortName": {
+      "message": "AVG SafePrice | Comparison, deals, coupons"
+   },
+   "sasClickToCopy": {
+      "message": "คลิกเพื่อทำสำเนา"
+   },
+   "sasCouponCodeCopied": {
+      "message": "คัดลอกรหัสไปยังคลิปบอร์ดแล้ว"
+   },
+   "sasHintSettings": {
+      "message": "ตั้งค่า"
+   }
+}

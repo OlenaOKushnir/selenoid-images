@@ -1,0 +1,609 @@
+{
+   "avastAppDesc": {
+      "description": "max 132 chars are allowed for this message",
+      "message": "Zoek tijdens het winkelen online naar de beste prijzen, aanbiedingen en waardebonnen met de speciale invoegtoepassing van Avast."
+   },
+   "avastAppLongName": {
+      "message": "Avast SafePrice | Price comparison, deals and coupons on safe shopping sites - Save Money"
+   },
+   "avastAppName": {
+      "message": "Avast SafePrice"
+   },
+   "avastAppShortName": {
+      "message": "Avast SafePrice | Prijsvergelijking, aanbiedingen, waardebonnen"
+   },
+   "avgAppDesc": {
+      "description": "max 132 chars are allowed for this message",
+      "message": "Zoek tijdens het winkelen online naar de beste prijzen, aanbiedingen en waardebonnen met de speciale invoegtoepassing van AVG."
+   },
+   "avgAppLongName": {
+      "message": "AVG SafePrice | Price comparison, deals and coupons on safe shopping sites - Save Money"
+   },
+   "avgAppName": {
+      "message": "AVG SafePrice"
+   },
+   "avgAppShortName": {
+      "message": "AVG SafePrice | Prijsvergelijking, aanbiedingen, waardebonnen"
+   },
+   "safePriceAskMeLater": {
+      "description": "It is showed to the user on the rating screen in order to offer it to rate extension later",
+      "message": "Later opnieuw vragen"
+   },
+   "safePriceEnjoyQuestion_AVG": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "Bevalt AVG \u003Cbr> SafePrice u?"
+   },
+   "safePriceEnjoyQuestion_Avast": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "Bevalt Avast \u003Cbr> SafePrice u?"
+   },
+   "safePriceLeaveRating": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "Laat een positieve beoordeling achter."
+   },
+   "sasAnswerNo": {
+      "message": "nee"
+   },
+   "sasAnswerYes": {
+      "message": "ja"
+   },
+   "sasClickToCopy": {
+      "message": "Klik hier om te kopiëren"
+   },
+   "sasCouponAppliedOnPage": {
+      "message": "Waardebon toegepast op deze pagina"
+   },
+   "sasCouponCodeCopied": {
+      "message": "De code is naar het klembord gekopieerd."
+   },
+   "sasGladYouLike": {
+      "message": "Fijn om te horen!"
+   },
+   "sasHintSettings": {
+      "message": "Instellingen"
+   },
+   "sasOpenShop": {
+      "message": "Winkel openen"
+   },
+   "sasRate": {
+      "message": "Nu beoordelen"
+   },
+   "sasSorry": {
+      "message": "Dat is jammer"
+   },
+   "sasWhatToDo": {
+      "message": "Wat kunnen we verbeteren?"
+   },
+   "sasfeedback": {
+      "message": "feedback geven"
+   },
+   "save": {
+      "message": "Bespaar"
+   },
+   "spAdditionalFees": {
+      "message": "Er worden mogelijk aanvullende kosten en belastingen in rekening gebracht"
+   },
+   "spAfterCloseTooltip": {
+      "description": "Small tooltips showed to the user after closing UI in order to remain users how to get UI back.",
+      "message": "U kunt altijd aanbiedingen en waardebonnen van SafePrice weergeven door op het taakbalkpictogram te klikken."
+   },
+   "spAfterCloseTooltipGotIt": {
+      "description": "Confirm message showed on Small tooltips showed to the user after closing UI in order to remain users how to get UI back.",
+      "message": "BEGREPEN!"
+   },
+   "spApply": {
+      "message": "Waardebon toepassen"
+   },
+   "spAvailableCoupons": {
+      "message": "Beschikbare waardebonnen"
+   },
+   "spAvailableHotels": {
+      "message": "Beschikbare hotels"
+   },
+   "spAvailableOffers": {
+      "message": "Beschikbare aanbiedingen"
+   },
+   "spAvailableOthers": {
+      "message": "Speciale aanbieding"
+   },
+   "spBetterOfferLowerPricesNotificationMessage": {
+      "message": "Prijzen vanaf"
+   },
+   "spBetterOffersNotificationBarMessage": {
+      "message": "Kijk eens aan! Meer aanbiedingen"
+   },
+   "spBetterOffersNotificationMessage": {
+      "message": "Kijk eens aan!\u003Cbr> Meer aanbiedingen"
+   },
+   "spBetterSpecialDealsNotificationBarMessage": {
+      "message": "Meer deals, meer besparingen!"
+   },
+   "spBetterSpecialDealsNotificationMessage": {
+      "message": "Meer deals,\u003Cbr> meer besparingen!"
+   },
+   "spCityHotelNotificationMessage": {
+      "message": "Populaire hotels:"
+   },
+   "spClickThenPaste": {
+      "message": "Klikken, en plakken bij afrekenen:"
+   },
+   "spClickThenPasteSearchResult": {
+      "description": "%s is the name of the domain where coupon was applied",
+      "message": "Klikken, en plakken bij het afrekenen op \u003Cspan class='asp-shopname-span'>%s\u003C/span>:"
+   },
+   "spCloseTooltip": {
+      "message": "Sluiten"
+   },
+   "spCodeCopied": {
+      "message": "gekopieerd"
+   },
+   "spConnectionNotSecure": {
+      "message": "Deze verbinding is niet beveiligd"
+   },
+   "spConnectionNotSecureHover": {
+      "message": "Deze website beschikt niet over een geldig https-certificaat, waardoor uw privacy niet volledig gewaarborgd is."
+   },
+   "spConnectionSecure": {
+      "message": "Deze verbinding is beveiligd"
+   },
+   "spCopyAtCheckOut": {
+      "message": "Kopiëren en plakken bij afrekenen:"
+   },
+   "spCouponApplied": {
+      "message": "Waardebon toegepast."
+   },
+   "spCouponCodeWorks": {
+      "message": "Heeft deze code gewerkt?"
+   },
+   "spCouponWorks": {
+      "message": "Heeft deze waardebon gewerkt?"
+   },
+   "spCouponsAvailableText": {
+      "message": "Beschikbaar"
+   },
+   "spCouponsExpiration": {
+      "message": "Verloopt: "
+   },
+   "spCouponsFor": {
+      "description": "%s is the domain where the coupons can be applied",
+      "message": "Waardebonnen voor %s"
+   },
+   "spCouponsNotificationMessage": {
+      "message": "Bespaar geld met waardebonnen"
+   },
+   "spCouponsNotificationSaveTextMessage": {
+      "message": "Bespaar tot maar liefst"
+   },
+   "spCouponsSearchIconHover": {
+      "message": "Waardebonnen zoeken"
+   },
+   "spCouponsSearchInput": {
+      "message": "Merken of onlinewinkels zoeken"
+   },
+   "spCouponsSelected": {
+      "message": "Geselecteerde waardebonnen: "
+   },
+   "spCouponsSelectedText": {
+      "message": "Geselecteerd"
+   },
+   "spCouponsTab": {
+      "message": "Waardebonnen"
+   },
+   "spEShopName": {
+      "message": "Naam van e-shop*"
+   },
+   "spFeedback": {
+      "message": "Feedback"
+   },
+   "spFeedbackGeneral": {
+      "message": "Algemene feedback"
+   },
+   "spFeedbackGeneralDesc": {
+      "message": "Vertel ons hoe SafePrice bevalt: wat vindt u er goed aan en wat kan er beter?"
+   },
+   "spFeedbackLinkToProductPage": {
+      "message": "Koppeling naar een productpagina"
+   },
+   "spFeedbackNext": {
+      "message": "volgende"
+   },
+   "spFeedbackOnlineStoreName": {
+      "message": "Naam onlinewinkel*"
+   },
+   "spFeedbackOther": {
+      "message": "Andere reden"
+   },
+   "spFeedbackPaidAndNotGet": {
+      "message": "Ik heb betaald voor een product maar het niet ontvangen."
+   },
+   "spFeedbackProblem": {
+      "message": "Wat was het probleem? \u003Cspan class='asp-required-span'>(required)\u003C/span>"
+   },
+   "spFeedbackProductOrdered": {
+      "message": "Besteld product"
+   },
+   "spFeedbackReportOnlineStore": {
+      "message": "Onlinewinkel rapporteren"
+   },
+   "spFeedbackReportOnlineStoreDesc": {
+      "message": "Geef onbetrouwbare of nepwebsites die anderen in de problemen kunnen brengen aan ons door."
+   },
+   "spFeedbackRetailerMerchant": {
+      "message": "Verkoper of winkelier"
+   },
+   "spFeedbackSPExp": {
+      "message": "Vertel ons hoe SafePrice bevalt:"
+   },
+   "spFeedbackSend": {
+      "message": "verzenden"
+   },
+   "spFeedbackShare": {
+      "message": "Deel uw feedback"
+   },
+   "spFeedbackSomethingDifferent": {
+      "message": "Ik heb iets anders ontvangen dan ik had besteld."
+   },
+   "spFeedbackThanks": {
+      "message": "Bedankt voor uw feedback!"
+   },
+   "spFeedbackWhatWasTheProblem": {
+      "message": "Leg kort uit wat het probleem was."
+   },
+   "spFeedbackWhichOnlineStoreReporting": {
+      "message": "Welke onlinewinkel wilt u melden? \u003Cspan class='asp-required-span'>(*required)\u003C/span>"
+   },
+   "spFeedbackWriteAComment": {
+      "message": "Schrijf een reactie"
+   },
+   "spFeedbackback": {
+      "message": "terug"
+   },
+   "spGetCouponCode": {
+      "message": "Code aanvragen"
+   },
+   "spGreatDeal": {
+      "message": "Puike aanbieding"
+   },
+   "spHelpTooltip": {
+      "message": "Help"
+   },
+   "spITrustThisSite": {
+      "message": "Ik vertrouw deze website"
+   },
+   "spLeaveSite": {
+      "message": "website verlaten"
+   },
+   "spLinkToProductPage": {
+      "message": "Koppeling naar de productpagina"
+   },
+   "spLoadingNotificationDescriptionMessage": {
+      "message": "Het is de moeite waard om te wachten, echt waar."
+   },
+   "spLoadingNotificationMessage": {
+      "message": "Zoeken naar deals..."
+   },
+   "spMinimizeTooltip": {
+      "message": "Minimaliseren"
+   },
+   "spNoResultsFound": {
+      "description": "%s is the domain where we couldn't find coupons or can be also, what the user wrote on our seach input",
+      "message": "Geen resultaten gevonden voor \u003Cbr>%s"
+   },
+   "spNoResultsFoundCoupons": {
+      "description": "%s is the domain where we couldn't find coupons or can be also, what the user wrote on our seach input",
+      "message": "Geen waardebonnen gevonden voor \u003Cbr> %s"
+   },
+   "spNoResultsFoundCouponsNow": {
+      "description": "%s is the domain where we couldn't find offer",
+      "message": "Geen waardebonnen gevonden op dit moment"
+   },
+   "spNoResultsFoundOffers": {
+      "description": "%s is the domain where we couldn't find offer",
+      "message": "Geen aanbiedingen gevonden op dit moment"
+   },
+   "spNoResultsFoundOffersBasedOnQuery": {
+      "description": "%s is the title of the product for which we couldn't find offers or can be also, what the user wrote on our seach input",
+      "message": "Geen aanbiedingen gevonden voor \u003Cbr> %s"
+   },
+   "spNoresultsFoundForOthers": {
+      "message": "Geen speciale aanbiedingen gevonden \u003Cbr> op dit moment"
+   },
+   "spNothingFoundCoupons": {
+      "message": "Oeps...\u003Cbr>Geen waardebonnen gevonden..."
+   },
+   "spNothingFoundOffers": {
+      "message": "Oeps...\u003Cbr>Geen aanbiedingen gevonden..."
+   },
+   "spNothingFoundOthers": {
+      "message": "Oeps...\u003Cbr>Geen speciale aanbiedingen gevonden..."
+   },
+   "spNotificationRedirectShowLessMessage": {
+      "message": "Minder"
+   },
+   "spNotificationRedirectShowMoreMessage": {
+      "message": "Meer"
+   },
+   "spNotificationRedirectShowRedirectMessage": {
+      "message": "DEAL WEERGEVEN"
+   },
+   "spOffersAndCouponsNotificationMessage": {
+      "message": "Er zijn aanbiedingen en waardebonnen gevonden. Valt dat even mee!"
+   },
+   "spOffersTab": {
+      "message": "Aanbiedingen"
+   },
+   "spOnboardingSearchCoupons": {
+      "message": "Begin hier naar waardebonnen te zoeken"
+   },
+   "spOnboardingSearchOffers": {
+      "message": "Begin hier naar aanbiedingen te zoeken"
+   },
+   "spOnboardingSettingsButton": {
+      "message": "OK"
+   },
+   "spOnboardingSettingsMsg": {
+      "message": "Stel in hoe vaak u aanbiedingen en waardebonnen wilt zien"
+   },
+   "spOther": {
+      "message": "Andere reden"
+   },
+   "spOthersTab": {
+      "message": "Overig"
+   },
+   "spPhishingSite": {
+      "message": "Deze website is gemarkeerd als phishing-site"
+   },
+   "spPhishingSiteDesc": {
+      "message": "Bij phishing wordt geprobeerd om gevoelige informatie in handen te krijgen, zoals gebruikersnamen, wachtwoorden en creditcardgegevens."
+   },
+   "spProductBestOfferTitle": {
+      "message": "Beste prijs"
+   },
+   "spProductOrdered": {
+      "message": "Besteld product"
+   },
+   "spProductSimilarOffersTitle": {
+      "message": "Vergelijkbare aanbiedingen"
+   },
+   "spProductsSearchIconHover": {
+      "message": "Een product zoeken"
+   },
+   "spProductsSearchInput": {
+      "message": "Producten zoeken"
+   },
+   "spRateCouponsThanks": {
+      "message": "Bedankt."
+   },
+   "spRecommend": {
+      "message": "aanbevelen"
+   },
+   "spRecommendESHop": {
+      "message": "E-shop aanbevelen"
+   },
+   "spRecommendExcellentSelectionOfProducts": {
+      "message": "Het assortiment is uitstekend."
+   },
+   "spRecommendGreatCcustomerService": {
+      "message": "De klantenservice is uitstekend."
+   },
+   "spRecommendGreatValue": {
+      "message": "De prijs-kwa­li­teit­ver­hou­ding is uitstekend."
+   },
+   "spRecommendWhy": {
+      "message": "Waarom beveelt u deze e-shop aan?*"
+   },
+   "spReport": {
+      "message": "melden"
+   },
+   "spReportESHop": {
+      "message": "E-shop rapporteren"
+   },
+   "spReportGetSomethingDifferent": {
+      "message": "Ik heb iets anders ontvangen dan ik had besteld."
+   },
+   "spReportPaidAndNotGet": {
+      "message": "Ik heb betaald voor een product maar het niet ontvangen."
+   },
+   "spReportTreatedMePoorly": {
+      "message": "Ik ben als klant niet behoorlijk behandeld."
+   },
+   "spReportWhy": {
+      "message": "Waarom maakt u melding van deze e-shop?*"
+   },
+   "spRequired": {
+      "message": "*vereist"
+   },
+   "spSearchCouponAppliedOnPage": {
+      "description": "%s is the name of the domain where coupon was applied",
+      "message": "Waardebon toegepast op \u003Cspan class='asp-shopname-span'>%s\u003C/span>."
+   },
+   "spSearchForCoupons": {
+      "message": "Zoek een merk of een onlinewinkel\u003Cbr>om waardebonnen te krijgen"
+   },
+   "spSearchForOffers": {
+      "message": "Zoek een product om \u003Cbr> aanbiedingen te krijgen"
+   },
+   "spSearchInAmazon": {
+      "description": "%s is the name of the domain. Ex: amazon",
+      "message": "zoeken op %s"
+   },
+   "spSelectedCoupons": {
+      "message": "Geselecteerde waardebonnen"
+   },
+   "spSettingsPageCancel": {
+      "message": "Annuleren"
+   },
+   "spSettingsPageCustomList": {
+      "message": "Aangepaste lijst"
+   },
+   "spSettingsPageCustomListItemAdd": {
+      "message": "Toevoegen"
+   },
+   "spSettingsPageCustomListItemAddSite": {
+      "message": "Website toevoegen"
+   },
+   "spSettingsPageCustomListTitle": {
+      "message": "Geen meldingen weergeven op deze websites:"
+   },
+   "spSettingsPageCustomListTitleDesc": {
+      "message": "(U kunt altijd aanbiedingen en waardebonnen weergeven door op het taakbalkpictogram te klikken)"
+   },
+   "spSettingsPageHelp": {
+      "message": "Help"
+   },
+   "spSettingsPageHelpCouponsTitle": {
+      "message": "3. Waardebonnen"
+   },
+   "spSettingsPageHelpCouponsTitleDesc": {
+      "message": "Als u een waardebon wilt gebruiken, hoeft u er alleen maar op te klikken. Als er een code wordt weergegeven, plakt u die tijdens het afrekenen in het daarvoor bestemde vak. In andere gevallen wordt de waardebon automatisch toegepast."
+   },
+   "spSettingsPageHelpFAQsTitle": {
+      "message": "Raadpleeg de \u003Cspan class='asp-faqs-span'>antwoorden op veelgestelde vragen\u003C/span> voor meer informatie."
+   },
+   "spSettingsPageHelpNotificationsTitle": {
+      "message": "1. Meldingen"
+   },
+   "spSettingsPageHelpNotificationsTitleDesc": {
+      "message": "Wanneer SafePrice een aanbieding of waardebon vindt voor uw zoekopdracht, verschijnt er een melding. Klik op de grote groene knop om te zien wat we voor u hebben gevonden."
+   },
+   "spSettingsPageHelpOffersTitle": {
+      "message": "2. Aanbiedingen"
+   },
+   "spSettingsPageHelpOffersTitleDesc": {
+      "message": "Als u op een aanbieding klikt, wordt u naar een vertrouwde onlinewinkel van een partner geleid, waar u kunt profiteren van de nieuwe prijs uit de melding."
+   },
+   "spSettingsPageHelpOthersTitle": {
+      "message": "4. Overig"
+   },
+   "spSettingsPageHelpOthersTitleDesc": {
+      "message": "Als u op een speciale aanbieding in de lijst klikt, wordt u naar de onlinewinkel van een vertrouwde partner geleid."
+   },
+   "spSettingsPageSave": {
+      "message": "Opslaan"
+   },
+   "spSettingsPageTitleAvast": {
+      "message": "Instellingen Avast SafePrice"
+   },
+   "spSettingsPageTitleAvg": {
+      "message": "Instellingen AVG SafePrice"
+   },
+   "spSettingsTabNotificationAccommodationsTitle": {
+      "message": "Aanbiedingen voor verblijf"
+   },
+   "spSettingsTabNotifications": {
+      "message": "Meldingen"
+   },
+   "spSettingsTabNotificationsAccommodationsPopular": {
+      "message": "Populaire hotels in het aangegeven gebied weergeven"
+   },
+   "spSettingsTabNotificationsAccommodationsShowBetter": {
+      "message": "Weergeven wanneer er een betere hotelaanbieding beschikbaar is"
+   },
+   "spSettingsTabNotificationsAccommodationsSimilar": {
+      "message": "Alternatieve hotels weergeven die voldoen aan mijn wensen"
+   },
+   "spSettingsTabNotificationsCoupons": {
+      "message": "Waardebonnen"
+   },
+   "spSettingsTabNotificationsCouponsHide": {
+      "message": "Geen meldingen weergeven over waardebonnen"
+   },
+   "spSettingsTabNotificationsCouponsHideDesc": {
+      "message": "(U kunt altijd waardebonnen weergeven door op het taakbalkpictogram te klikken)"
+   },
+   "spSettingsTabNotificationsCouponsShowAll": {
+      "message": "Weergeven wanneer er een waardebon beschikbaar is"
+   },
+   "spSettingsTabNotificationsCouponsShowOnce": {
+      "message": "Slechts één keer weergeven op elke website"
+   },
+   "spSettingsTabNotificationsOffers": {
+      "message": "Aanbiedingen"
+   },
+   "spSettingsTabNotificationsOffersBetter": {
+      "message": "Alleen aanbiedingen van e-shops weergeven die beter zijn dan de oorspronkelijke prijs"
+   },
+   "spSettingsTabNotificationsOffersHideAll": {
+      "message": "Geen meldingen over aanbiedingen van e-shops weergeven"
+   },
+   "spSettingsTabNotificationsOffersHideAllDesc": {
+      "message": "(U kunt altijd aanbiedingen weergeven door op het taakbalkpictogram te klikken)"
+   },
+   "spSettingsTabNotificationsOffersShowAll": {
+      "message": "Aanbiedingen van e-shops weergeven"
+   },
+   "spSettingsTabNotificationsOffersTitle": {
+      "message": "Aanbiedingen van e-shops"
+   },
+   "spSettingsTabNotificationsOthers": {
+      "message": "Overig"
+   },
+   "spSettingsTabNotificationsOthersDesc": {
+      "message": "Meldingen weergeven over speciale aanbiedingen uit andere categorieën (bijvoorbeeld transport, financieel en energie)"
+   },
+   "spSettingsTabNotificationsOthersTitle": {
+      "message": "Speciale aanbiedingen"
+   },
+   "spSettingsTooltip": {
+      "message": "Instellingen"
+   },
+   "spShippingLabel": {
+      "message": "Verpakkings-/verzendkosten vanaf"
+   },
+   "spShowAll": {
+      "message": "ALLES WEERGEVEN"
+   },
+   "spShowNotificationMessage": {
+      "message": "WEERGEVEN"
+   },
+   "spShowNotificationRedirectMessage": {
+      "message": "Kijk wat we hebben gevonden!"
+   },
+   "spSimilarHotelsMessage": {
+      "message": "Alternatieve hotels"
+   },
+   "spSimilarHotelsNotificationMessage": {
+      "message": "Alternatieve hotels gevonden"
+   },
+   "spSiteNotVerified": {
+      "message": "Dit is een onbetrouwbare website om te winkelen"
+   },
+   "spSiteNotVerifiedHover": {
+      "message": "Deze website is aangemerkt als onbetrouwbaar. Elk koopje dat wij vinden komt van een veilige website, dus het is raadzaam op een van de bovenstaande aanbiedingen te klikken of het gewoon ergens anders te proberen."
+   },
+   "spSiteUntrustworthy": {
+      "message": "Deze website is aangemerkt als onbetrouwbaar"
+   },
+   "spSiteUntrustworthyDesc": {
+      "message": "Deze website is door klanten als matig beoordeeld. Het is raadzaam ergens anders te winkelen."
+   },
+   "spSiteVerified": {
+      "message": "Deze winkelwebsite is gecontroleerd en veilig"
+   },
+   "spSocialShare": {
+      "description": "It is showed up to users in order to make them share SafePrice on Social Networks",
+      "message": "U bespaart graag? Laat anderen meeprofiteren!"
+   },
+   "spSocialShareFb": {
+      "description": "It is showed up to users in order to make them share SafePrice on Facebook",
+      "message": "Delen"
+   },
+   "spSocialSharetttr": {
+      "description": "It is showed up to users in order to make them share SafePrice on Twitter",
+      "message": "Tweeten"
+   },
+   "spTellUsMore": {
+      "message": "Vertel ons meer"
+   },
+   "spThanksForVoting": {
+      "message": "Hartelijk dank voor uw hulp bij het verbeteren van SafePrice"
+   },
+   "spTrySearchDeals": {
+      "description": "%s is the domain. Ex: Amazon.com",
+      "message": "Zoek eens naar aanbiedingen op %s"
+   },
+   "spTrySearchInAmazon": {
+      "description": "%s is the domain. Ex: Amazon.com",
+      "message": "Zoek eens op %s"
+   }
+}

@@ -1,0 +1,609 @@
+{
+   "avastAppDesc": {
+      "description": "max 132 chars are allowed for this message",
+      "message": "在線上購物時，使用 Avast 提供的價格比較與折價券擴充功能，尋找最划算的價格、交易和折價券。"
+   },
+   "avastAppLongName": {
+      "message": "Avast SafePrice | Price comparison, deals and coupons on safe shopping sites - Save Money"
+   },
+   "avastAppName": {
+      "message": "Avast SafePrice"
+   },
+   "avastAppShortName": {
+      "message": "Avast SafePrice | 比價、優惠、折價券"
+   },
+   "avgAppDesc": {
+      "description": "max 132 chars are allowed for this message",
+      "message": "在線上購物時，使用 AVG 提供的價格比較與折價券擴充功能，尋找最划算的價格、交易和折價券。"
+   },
+   "avgAppLongName": {
+      "message": "AVG SafePrice | Price comparison, deals and coupons on safe shopping sites - Save Money"
+   },
+   "avgAppName": {
+      "message": "AVG SafePrice"
+   },
+   "avgAppShortName": {
+      "message": "AVG SafePrice | 比價、優惠、折價券"
+   },
+   "safePriceAskMeLater": {
+      "description": "It is showed to the user on the rating screen in order to offer it to rate extension later",
+      "message": "稍後詢問我"
+   },
+   "safePriceEnjoyQuestion_AVG": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "喜歡使用 \u003Cbr>AVG SafePrice 嗎？"
+   },
+   "safePriceEnjoyQuestion_Avast": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "喜歡使用 \u003Cbr>Avast SafePrice 嗎？"
+   },
+   "safePriceLeaveRating": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "請給予評價以表達您的喜愛。"
+   },
+   "sasAnswerNo": {
+      "message": "否"
+   },
+   "sasAnswerYes": {
+      "message": "是"
+   },
+   "sasClickToCopy": {
+      "message": "按一下以複製"
+   },
+   "sasCouponAppliedOnPage": {
+      "message": "已在這個頁面使用折價券"
+   },
+   "sasCouponCodeCopied": {
+      "message": "已將代碼複製到剪貼簿。"
+   },
+   "sasGladYouLike": {
+      "message": "很高興您喜歡！"
+   },
+   "sasHintSettings": {
+      "message": "設定"
+   },
+   "sasOpenShop": {
+      "message": "開啟商店"
+   },
+   "sasRate": {
+      "message": "立即給予評價"
+   },
+   "sasSorry": {
+      "message": "很遺憾聽到您這麼說"
+   },
+   "sasWhatToDo": {
+      "message": "我們有哪些地方需要改進？"
+   },
+   "sasfeedback": {
+      "message": "提供意見反應"
+   },
+   "save": {
+      "message": "節省"
+   },
+   "spAdditionalFees": {
+      "message": "可能需要支付額外費用及稅金"
+   },
+   "spAfterCloseTooltip": {
+      "description": "Small tooltips showed to the user after closing UI in order to remain users how to get UI back.",
+      "message": "每當您想查看 SafePrice 優惠活動和折價券時，只要按一下工具列圖示就可以了。"
+   },
+   "spAfterCloseTooltipGotIt": {
+      "description": "Confirm message showed on Small tooltips showed to the user after closing UI in order to remain users how to get UI back.",
+      "message": "知道了！"
+   },
+   "spApply": {
+      "message": "使用折價券"
+   },
+   "spAvailableCoupons": {
+      "message": "現有折價券"
+   },
+   "spAvailableHotels": {
+      "message": "現有飯店"
+   },
+   "spAvailableOffers": {
+      "message": "現有優惠"
+   },
+   "spAvailableOthers": {
+      "message": "特殊優惠"
+   },
+   "spBetterOfferLowerPricesNotificationMessage": {
+      "message": "價格最低"
+   },
+   "spBetterOffersNotificationBarMessage": {
+      "message": "看到沒有？還有更多優惠"
+   },
+   "spBetterOffersNotificationMessage": {
+      "message": "看到沒有？\u003Cbr>還有更多優惠"
+   },
+   "spBetterSpecialDealsNotificationBarMessage": {
+      "message": "買越多，省越多！"
+   },
+   "spBetterSpecialDealsNotificationMessage": {
+      "message": "買越多，\u003Cbr>省越多！"
+   },
+   "spCityHotelNotificationMessage": {
+      "message": "熱門飯店："
+   },
+   "spClickThenPaste": {
+      "message": "按一下，結帳時貼上："
+   },
+   "spClickThenPasteSearchResult": {
+      "description": "%s is the name of the domain where coupon was applied",
+      "message": "按一下，結帳時貼到 \u003Cspan class='asp-shopname-span'>%s\u003C/span>："
+   },
+   "spCloseTooltip": {
+      "message": "關閉"
+   },
+   "spCodeCopied": {
+      "message": "已複製"
+   },
+   "spConnectionNotSecure": {
+      "message": "該連線不安全"
+   },
+   "spConnectionNotSecureHover": {
+      "message": "該網站缺少有效的 https 憑證，因此無法完全保護您的隱私。"
+   },
+   "spConnectionSecure": {
+      "message": "該連線安全無虞"
+   },
+   "spCopyAtCheckOut": {
+      "message": "在結帳時複製並貼上："
+   },
+   "spCouponApplied": {
+      "message": "已使用折價券。"
+   },
+   "spCouponCodeWorks": {
+      "message": "這個代碼有效嗎？"
+   },
+   "spCouponWorks": {
+      "message": "這張折價券有效嗎？"
+   },
+   "spCouponsAvailableText": {
+      "message": "可供使用"
+   },
+   "spCouponsExpiration": {
+      "message": "到期時間："
+   },
+   "spCouponsFor": {
+      "description": "%s is the domain where the coupons can be applied",
+      "message": "%s 的折價券"
+   },
+   "spCouponsNotificationMessage": {
+      "message": "使用折價券省錢"
+   },
+   "spCouponsNotificationSaveTextMessage": {
+      "message": "最多節省"
+   },
+   "spCouponsSearchIconHover": {
+      "message": "搜尋折價券"
+   },
+   "spCouponsSearchInput": {
+      "message": "搜尋品牌或線上商店"
+   },
+   "spCouponsSelected": {
+      "message": "已選取的折價券："
+   },
+   "spCouponsSelectedText": {
+      "message": "已選取"
+   },
+   "spCouponsTab": {
+      "message": "折價券"
+   },
+   "spEShopName": {
+      "message": "電子商店名稱*"
+   },
+   "spFeedback": {
+      "message": "意見反應"
+   },
+   "spFeedbackGeneral": {
+      "message": "一般意見反應"
+   },
+   "spFeedbackGeneralDesc": {
+      "message": "告訴我們您的 SafePrice 體驗、您喜歡什麼，以及我們有哪些可以改進的地方。"
+   },
+   "spFeedbackLinkToProductPage": {
+      "message": "產品頁面連結"
+   },
+   "spFeedbackNext": {
+      "message": "下一步"
+   },
+   "spFeedbackOnlineStoreName": {
+      "message": "線上商店名稱*"
+   },
+   "spFeedbackOther": {
+      "message": "其他"
+   },
+   "spFeedbackPaidAndNotGet": {
+      "message": "我已經付費，但未收到產品。"
+   },
+   "spFeedbackProblem": {
+      "message": "發生什麼問題？\u003Cspan class='asp-required-span'>(必填)\u003C/span>"
+   },
+   "spFeedbackProductOrdered": {
+      "message": "訂購的產品"
+   },
+   "spFeedbackReportOnlineStore": {
+      "message": "檢舉線上商店"
+   },
+   "spFeedbackReportOnlineStoreDesc": {
+      "message": "告訴我們哪些網站不老實或是偽造網站，可能會造成其他人危險。"
+   },
+   "spFeedbackRetailerMerchant": {
+      "message": "零售商或賣家"
+   },
+   "spFeedbackSPExp": {
+      "message": "請告訴我們您的 SafePrice 體驗："
+   },
+   "spFeedbackSend": {
+      "message": "傳送"
+   },
+   "spFeedbackShare": {
+      "message": "分享您的意見反應"
+   },
+   "spFeedbackSomethingDifferent": {
+      "message": "我收到的貨品與我訂購的不符。"
+   },
+   "spFeedbackThanks": {
+      "message": "感謝您提供意見反應！"
+   },
+   "spFeedbackWhatWasTheProblem": {
+      "message": "簡短說明問題。"
+   },
+   "spFeedbackWhichOnlineStoreReporting": {
+      "message": "您要檢舉哪家線上商店？\u003Cspan class='asp-required-span'>(* 必填)\u003C/span>"
+   },
+   "spFeedbackWriteAComment": {
+      "message": "寫下意見"
+   },
+   "spFeedbackback": {
+      "message": "上一步"
+   },
+   "spGetCouponCode": {
+      "message": "取得代碼"
+   },
+   "spGreatDeal": {
+      "message": "超划算的交易"
+   },
+   "spHelpTooltip": {
+      "message": "說明"
+   },
+   "spITrustThisSite": {
+      "message": "我信任這個網站"
+   },
+   "spLeaveSite": {
+      "message": "離開網站"
+   },
+   "spLinkToProductPage": {
+      "message": "商品頁面連結"
+   },
+   "spLoadingNotificationDescriptionMessage": {
+      "message": "我們保證不會讓您白白等候。"
+   },
+   "spLoadingNotificationMessage": {
+      "message": "正在搜尋交易..."
+   },
+   "spMinimizeTooltip": {
+      "message": "最小化"
+   },
+   "spNoResultsFound": {
+      "description": "%s is the domain where we couldn't find coupons or can be also, what the user wrote on our seach input",
+      "message": "找不到 %s\u003Cbr>的結果"
+   },
+   "spNoResultsFoundCoupons": {
+      "description": "%s is the domain where we couldn't find coupons or can be also, what the user wrote on our seach input",
+      "message": "找不到 %s 的折價券\u003Cbr>"
+   },
+   "spNoResultsFoundCouponsNow": {
+      "description": "%s is the domain where we couldn't find offer",
+      "message": "目前沒有折價券"
+   },
+   "spNoResultsFoundOffers": {
+      "description": "%s is the domain where we couldn't find offer",
+      "message": "目前沒有優惠"
+   },
+   "spNoResultsFoundOffersBasedOnQuery": {
+      "description": "%s is the title of the product for which we couldn't find offers or can be also, what the user wrote on our seach input",
+      "message": "找不到 %s 的優惠\u003Cbr>"
+   },
+   "spNoresultsFoundForOthers": {
+      "message": "目前沒有\u003Cbr>特殊優惠"
+   },
+   "spNothingFoundCoupons": {
+      "message": "噢不...\u003Cbr>沒有折價券..."
+   },
+   "spNothingFoundOffers": {
+      "message": "噢不...\u003Cbr>沒有優惠..."
+   },
+   "spNothingFoundOthers": {
+      "message": "噢不...\u003Cbr>沒有特殊優惠..."
+   },
+   "spNotificationRedirectShowLessMessage": {
+      "message": "顯示較少"
+   },
+   "spNotificationRedirectShowMoreMessage": {
+      "message": "顯示更多"
+   },
+   "spNotificationRedirectShowRedirectMessage": {
+      "message": "顯示交易"
+   },
+   "spOffersAndCouponsNotificationMessage": {
+      "message": "找到一些優惠與折價券。您真幸運！"
+   },
+   "spOffersTab": {
+      "message": "優惠"
+   },
+   "spOnboardingSearchCoupons": {
+      "message": "開始在這裡搜尋折價券"
+   },
+   "spOnboardingSearchOffers": {
+      "message": "開始在這裡搜尋優惠"
+   },
+   "spOnboardingSettingsButton": {
+      "message": "確定"
+   },
+   "spOnboardingSettingsMsg": {
+      "message": "設定優惠和折價券的顯示頻率"
+   },
+   "spOther": {
+      "message": "其他"
+   },
+   "spOthersTab": {
+      "message": "其他"
+   },
+   "spPhishingSite": {
+      "message": "這個網站已被標示為網路釣魚網站"
+   },
+   "spPhishingSiteDesc": {
+      "message": "網路釣魚是嘗試取得使用者名稱、密碼和信用卡詳細資料等敏感資訊的手法。"
+   },
+   "spProductBestOfferTitle": {
+      "message": "最低價格"
+   },
+   "spProductOrdered": {
+      "message": "訂購的商品"
+   },
+   "spProductSimilarOffersTitle": {
+      "message": "類似優惠"
+   },
+   "spProductsSearchIconHover": {
+      "message": "搜尋產品"
+   },
+   "spProductsSearchInput": {
+      "message": "搜尋產品"
+   },
+   "spRateCouponsThanks": {
+      "message": "謝謝。"
+   },
+   "spRecommend": {
+      "message": "推薦"
+   },
+   "spRecommendESHop": {
+      "message": "推薦電子商店"
+   },
+   "spRecommendExcellentSelectionOfProducts": {
+      "message": "他們有許多精選商品。"
+   },
+   "spRecommendGreatCcustomerService": {
+      "message": "他們提供優良的客戶服務。"
+   },
+   "spRecommendGreatValue": {
+      "message": "他們的商品物超所值。"
+   },
+   "spRecommendWhy": {
+      "message": "您為什麼要推薦這家電子商店？*"
+   },
+   "spReport": {
+      "message": "檢舉"
+   },
+   "spReportESHop": {
+      "message": "檢舉電子商店"
+   },
+   "spReportGetSomethingDifferent": {
+      "message": "收到的商品與我訂購的商品不符。"
+   },
+   "spReportPaidAndNotGet": {
+      "message": "我付錢購買商品，但沒有收到貨。"
+   },
+   "spReportTreatedMePoorly": {
+      "message": "他們對待客戶的態度不好。"
+   },
+   "spReportWhy": {
+      "message": "您為什麼要檢舉這家電子商店？*"
+   },
+   "spRequired": {
+      "message": "*必填"
+   },
+   "spSearchCouponAppliedOnPage": {
+      "description": "%s is the name of the domain where coupon was applied",
+      "message": "已在 \u003Cspan class='asp-shopname-span'>%s\u003C/span> 上套用折價券。"
+   },
+   "spSearchForCoupons": {
+      "message": "若要取得折價券，請搜尋\u003Cbr>品牌或線上商店"
+   },
+   "spSearchForOffers": {
+      "message": "若要取得優惠，請搜尋\u003Cbr>產品"
+   },
+   "spSearchInAmazon": {
+      "description": "%s is the name of the domain. Ex: amazon",
+      "message": "在 %s 搜尋"
+   },
+   "spSelectedCoupons": {
+      "message": "所選折價券"
+   },
+   "spSettingsPageCancel": {
+      "message": "取消"
+   },
+   "spSettingsPageCustomList": {
+      "message": "自訂清單"
+   },
+   "spSettingsPageCustomListItemAdd": {
+      "message": "新增"
+   },
+   "spSettingsPageCustomListItemAddSite": {
+      "message": "新增網站"
+   },
+   "spSettingsPageCustomListTitle": {
+      "message": "不在下列網站顯示任何通知："
+   },
+   "spSettingsPageCustomListTitleDesc": {
+      "message": "(每當您想查看優惠活動和折價券時，只要按一下工具列圖示就可以了)"
+   },
+   "spSettingsPageHelp": {
+      "message": "說明"
+   },
+   "spSettingsPageHelpCouponsTitle": {
+      "message": "3. 折價券"
+   },
+   "spSettingsPageHelpCouponsTitleDesc": {
+      "message": "只要按一下折價券，您就能盡情使用。如果折價券提供一組代碼，請複製代碼，並在結帳時貼到適當的欄位。如果沒有代碼，系統會自動使用折價券。"
+   },
+   "spSettingsPageHelpFAQsTitle": {
+      "message": "若要瞭解更多資訊，請造訪\u003Cspan class='asp-faqs-span'>常見問題集\u003C/span>。"
+   },
+   "spSettingsPageHelpNotificationsTitle": {
+      "message": "1. 通知"
+   },
+   "spSettingsPageHelpNotificationsTitleDesc": {
+      "message": "當 SafePrice 找到與搜尋內容相關的優惠活動或折價券，畫面上就會跳出通知。請按一下畫面上的綠色大按鈕，看看我們替您找到什麼好東西。"
+   },
+   "spSettingsPageHelpOffersTitle": {
+      "message": "2. 優惠"
+   },
+   "spSettingsPageHelpOffersTitleDesc": {
+      "message": "按一下優惠活動後，您會前往合作夥伴的信任線上商店。在商店裡，您可以利用通知列示的新價格購物。"
+   },
+   "spSettingsPageHelpOthersTitle": {
+      "message": "4. 其他"
+   },
+   "spSettingsPageHelpOthersTitleDesc": {
+      "message": "按一下畫面上列出的特殊優惠後，您會前往合作夥伴的信任線上商店。"
+   },
+   "spSettingsPageSave": {
+      "message": "儲存"
+   },
+   "spSettingsPageTitleAvast": {
+      "message": "Avast SafePrice 設定"
+   },
+   "spSettingsPageTitleAvg": {
+      "message": "AVG SafePrice 設定"
+   },
+   "spSettingsTabNotificationAccommodationsTitle": {
+      "message": "住宿優惠"
+   },
+   "spSettingsTabNotifications": {
+      "message": "通知"
+   },
+   "spSettingsTabNotificationsAccommodationsPopular": {
+      "message": "顯示要求區域的熱門飯店"
+   },
+   "spSettingsTabNotificationsAccommodationsShowBetter": {
+      "message": "每當有較優惠的飯店價格時，顯示通知"
+   },
+   "spSettingsTabNotificationsAccommodationsSimilar": {
+      "message": "顯示其他符合要求的飯店"
+   },
+   "spSettingsTabNotificationsCoupons": {
+      "message": "折價券"
+   },
+   "spSettingsTabNotificationsCouponsHide": {
+      "message": "不要通知我有折價券可以使用"
+   },
+   "spSettingsTabNotificationsCouponsHideDesc": {
+      "message": "(每當您想查看折價券時，只要按一下工具列圖示就可以了)"
+   },
+   "spSettingsTabNotificationsCouponsShowAll": {
+      "message": "每當有折價券可以使用時，顯示通知"
+   },
+   "spSettingsTabNotificationsCouponsShowOnce": {
+      "message": "只在每個網站上顯示一次"
+   },
+   "spSettingsTabNotificationsOffers": {
+      "message": "優惠"
+   },
+   "spSettingsTabNotificationsOffersBetter": {
+      "message": "只顯示較原價便宜的電子商店優惠"
+   },
+   "spSettingsTabNotificationsOffersHideAll": {
+      "message": "不要通知我有電子商店優惠可以使用"
+   },
+   "spSettingsTabNotificationsOffersHideAllDesc": {
+      "message": "(每當您想查看優惠活動時，只要按一下工具列圖示就可以了)"
+   },
+   "spSettingsTabNotificationsOffersShowAll": {
+      "message": "每當有電子商店優惠時，顯示通知"
+   },
+   "spSettingsTabNotificationsOffersTitle": {
+      "message": "電子商店優惠"
+   },
+   "spSettingsTabNotificationsOthers": {
+      "message": "其他"
+   },
+   "spSettingsTabNotificationsOthersDesc": {
+      "message": "有其他類別的特殊優惠 (運輸、金融、電力供應等) 時通知我"
+   },
+   "spSettingsTabNotificationsOthersTitle": {
+      "message": "特殊優惠"
+   },
+   "spSettingsTooltip": {
+      "message": "設定"
+   },
+   "spShippingLabel": {
+      "message": "運費與手續費最低"
+   },
+   "spShowAll": {
+      "message": "全部顯示"
+   },
+   "spShowNotificationMessage": {
+      "message": "顯示"
+   },
+   "spShowNotificationRedirectMessage": {
+      "message": "看看我們找到了什麼！"
+   },
+   "spSimilarHotelsMessage": {
+      "message": "其他飯店"
+   },
+   "spSimilarHotelsNotificationMessage": {
+      "message": "找到其他飯店！"
+   },
+   "spSiteNotVerified": {
+      "message": "該網站是不可信任的購物網站"
+   },
+   "spSiteNotVerifiedHover": {
+      "message": "這個網站經認定為不可信任的網站。我們找到的優惠全都來自安全的網站，因此建議您按一下上方優惠，或是到其他網站購物。"
+   },
+   "spSiteUntrustworthy": {
+      "message": "該網站經認定為不可信任"
+   },
+   "spSiteUntrustworthyDesc": {
+      "message": "建議您到他處購物，因為客戶給予網站的評價不良。"
+   },
+   "spSiteVerified": {
+      "message": "該網站已經過驗證，請安心購物"
+   },
+   "spSocialShare": {
+      "description": "It is showed up to users in order to make them share SafePrice on Social Networks",
+      "message": "喜歡省錢的感覺嗎？獨樂樂不如眾樂樂！"
+   },
+   "spSocialShareFb": {
+      "description": "It is showed up to users in order to make them share SafePrice on Facebook",
+      "message": "分享"
+   },
+   "spSocialSharetttr": {
+      "description": "It is showed up to users in order to make them share SafePrice on Twitter",
+      "message": "推文"
+   },
+   "spTellUsMore": {
+      "message": "告訴我們更多資訊"
+   },
+   "spThanksForVoting": {
+      "message": "感謝您協助我們改善 SafePrice"
+   },
+   "spTrySearchDeals": {
+      "description": "%s is the domain. Ex: Amazon.com",
+      "message": "嘗試在 %s 搜尋優惠"
+   },
+   "spTrySearchInAmazon": {
+      "description": "%s is the domain. Ex: Amazon.com",
+      "message": "嘗試在 %s 搜尋"
+   }
+}

@@ -1,0 +1,609 @@
+{
+   "avastAppDesc": {
+      "description": "max 132 chars are allowed for this message",
+      "message": "Vyhľadajte najlepšie ceny, ponuky a kupóny počas nakupovania online pomocou rozšírenia na porovnávanie cien a kupónov od Avastu."
+   },
+   "avastAppLongName": {
+      "message": "Avast SafePrice | Price comparison, deals and coupons on safe shopping sites - Save Money"
+   },
+   "avastAppName": {
+      "message": "Avast SafePrice"
+   },
+   "avastAppShortName": {
+      "message": "Avast SafePrice | Porovnanie, ponuky, kupóny"
+   },
+   "avgAppDesc": {
+      "description": "max 132 chars are allowed for this message",
+      "message": "Vyhľadajte najlepšie ceny, ponuky a kupónu počas online nakupovania vďaka rozšíreniu na porovnávaniie cien a kupónov od AVG."
+   },
+   "avgAppLongName": {
+      "message": "AVG SafePrice | Price comparison, deals and coupons on safe shopping sites - Save Money"
+   },
+   "avgAppName": {
+      "message": "AVG SafePrice"
+   },
+   "avgAppShortName": {
+      "message": "AVG SafePrice | Porovnanie, ponuky, kupóny"
+   },
+   "safePriceAskMeLater": {
+      "description": "It is showed to the user on the rating screen in order to offer it to rate extension later",
+      "message": "Opýtať sa neskôr"
+   },
+   "safePriceEnjoyQuestion_AVG": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "Páči sa vám \u003Cbr> AVG SafePrice?"
+   },
+   "safePriceEnjoyQuestion_Avast": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "Páči sa vám \u003Cbr> Avast SafePrice?"
+   },
+   "safePriceLeaveRating": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "Vyjadrite nám podporu a ohodnoťte aplikáciu."
+   },
+   "sasAnswerNo": {
+      "message": "nie"
+   },
+   "sasAnswerYes": {
+      "message": "áno"
+   },
+   "sasClickToCopy": {
+      "message": "Kliknite pre skopírovanie"
+   },
+   "sasCouponAppliedOnPage": {
+      "message": "Na tejto stránke bol použitý kupón"
+   },
+   "sasCouponCodeCopied": {
+      "message": "Kód bol skopírovaný do schránky."
+   },
+   "sasGladYouLike": {
+      "message": "Sme radi, že sa vám páči!"
+   },
+   "sasHintSettings": {
+      "message": "Nastavenia"
+   },
+   "sasOpenShop": {
+      "message": "Otvoriť obchod"
+   },
+   "sasRate": {
+      "message": "Ohodnotiť"
+   },
+   "sasSorry": {
+      "message": "To nás mrzí"
+   },
+   "sasWhatToDo": {
+      "message": "Čo môžeme zlepšiť?"
+   },
+   "sasfeedback": {
+      "message": "Poslať názor"
+   },
+   "save": {
+      "message": "Ušetrite"
+   },
+   "spAdditionalFees": {
+      "message": "Môžu byť uplatnené dodatočné poplatky a dane"
+   },
+   "spAfterCloseTooltip": {
+      "description": "Small tooltips showed to the user after closing UI in order to remain users how to get UI back.",
+      "message": "Ponuky a kupóny SafePrice môžete vidieť vždy po kliknutí na ikonu panela s nástrojmi."
+   },
+   "spAfterCloseTooltipGotIt": {
+      "description": "Confirm message showed on Small tooltips showed to the user after closing UI in order to remain users how to get UI back.",
+      "message": "ROZUMIEM!"
+   },
+   "spApply": {
+      "message": "Použiť kupón"
+   },
+   "spAvailableCoupons": {
+      "message": "Dostupné kupóny"
+   },
+   "spAvailableHotels": {
+      "message": "Dostupné hotely"
+   },
+   "spAvailableOffers": {
+      "message": "Dostupné ponuky"
+   },
+   "spAvailableOthers": {
+      "message": "Špeciálna ponuka"
+   },
+   "spBetterOfferLowerPricesNotificationMessage": {
+      "message": "ceny už od"
+   },
+   "spBetterOffersNotificationBarMessage": {
+      "message": "Pozrite! Ďalšie ponuky"
+   },
+   "spBetterOffersNotificationMessage": {
+      "message": "Pozrite!\u003Cbr> Ďalšie ponuky"
+   },
+   "spBetterSpecialDealsNotificationBarMessage": {
+      "message": "Viac ponúk, väčšie úspory!"
+   },
+   "spBetterSpecialDealsNotificationMessage": {
+      "message": "Viac výhodných ponúk,\u003Cbr>väčšie úspory!"
+   },
+   "spCityHotelNotificationMessage": {
+      "message": "Obľúbené hotely:"
+   },
+   "spClickThenPaste": {
+      "message": "Skopírujte a potom vložte pri platení:"
+   },
+   "spClickThenPasteSearchResult": {
+      "description": "%s is the name of the domain where coupon was applied",
+      "message": "Skopírujte a potom vložte pri platení na lokalite \u003Cspan class='asp-shopname-span'>%s\u003C/span>:"
+   },
+   "spCloseTooltip": {
+      "message": "Zavrieť"
+   },
+   "spCodeCopied": {
+      "message": "skopírované"
+   },
+   "spConnectionNotSecure": {
+      "message": "Toto pripojenie nie je bezpečné"
+   },
+   "spConnectionNotSecureHover": {
+      "message": "Táto webová stránka nemá platný certifikát https, preto nemôže úplne chrániť vaše súkromie."
+   },
+   "spConnectionSecure": {
+      "message": "Toto pripojenie je bezpečné"
+   },
+   "spCopyAtCheckOut": {
+      "message": "Skopírujte a uplatnite pri pokladni:"
+   },
+   "spCouponApplied": {
+      "message": "Kupón použitý."
+   },
+   "spCouponCodeWorks": {
+      "message": "Fungoval tento kód?"
+   },
+   "spCouponWorks": {
+      "message": "Fungoval tento kupón?"
+   },
+   "spCouponsAvailableText": {
+      "message": "K dispozícii"
+   },
+   "spCouponsExpiration": {
+      "message": "Platnosť končí: "
+   },
+   "spCouponsFor": {
+      "description": "%s is the domain where the coupons can be applied",
+      "message": "Kupóny pre obchod %s"
+   },
+   "spCouponsNotificationMessage": {
+      "message": "Ušetrite peniaze pomocou kupónov"
+   },
+   "spCouponsNotificationSaveTextMessage": {
+      "message": "Ušetrite až"
+   },
+   "spCouponsSearchIconHover": {
+      "message": "Hľadať kupóny"
+   },
+   "spCouponsSearchInput": {
+      "message": "Hľadať značky alebo online obchody"
+   },
+   "spCouponsSelected": {
+      "message": "Zvolené kupóny: "
+   },
+   "spCouponsSelectedText": {
+      "message": "Vybrané"
+   },
+   "spCouponsTab": {
+      "message": "Kupóny"
+   },
+   "spEShopName": {
+      "message": "Názov e-shopu*"
+   },
+   "spFeedback": {
+      "message": "Spätná väzba"
+   },
+   "spFeedbackGeneral": {
+      "message": "Všeobecná spätná väzba"
+   },
+   "spFeedbackGeneralDesc": {
+      "message": "Povedzte nám o svojej skúsenosti so SafePrice, čo sa vám páčilo a v čom sa môžeme zlepšiť."
+   },
+   "spFeedbackLinkToProductPage": {
+      "message": "Odkaz na stránku produktu"
+   },
+   "spFeedbackNext": {
+      "message": "ďalej"
+   },
+   "spFeedbackOnlineStoreName": {
+      "message": "Názov online obchodu*"
+   },
+   "spFeedbackOther": {
+      "message": "Iné"
+   },
+   "spFeedbackPaidAndNotGet": {
+      "message": "Zaplatil(a) som za produkt a nedostal(a) som ho."
+   },
+   "spFeedbackProblem": {
+      "message": "V čom bol problém? \u003Cspan class='asp-required-span'>(povinné)\u003C/span>"
+   },
+   "spFeedbackProductOrdered": {
+      "message": "Objednaný produkt"
+   },
+   "spFeedbackReportOnlineStore": {
+      "message": "Nahlásiť online obchod"
+   },
+   "spFeedbackReportOnlineStoreDesc": {
+      "message": "Povedzte nám o nedôveryhodných alebo falošných weboch, ktoré by mohli ohroziť ostatných."
+   },
+   "spFeedbackRetailerMerchant": {
+      "message": "Predávajúci alebo obchodník"
+   },
+   "spFeedbackSPExp": {
+      "message": "Povedzte nám o svojej skúsenosti so SafePrice:"
+   },
+   "spFeedbackSend": {
+      "message": "odoslať"
+   },
+   "spFeedbackShare": {
+      "message": "Podeľte sa o svoj názor"
+   },
+   "spFeedbackSomethingDifferent": {
+      "message": "Dostal(a) som niečo iné, než som si objednal(a)."
+   },
+   "spFeedbackThanks": {
+      "message": "Ďakujeme za vašu spätnú väzbu!"
+   },
+   "spFeedbackWhatWasTheProblem": {
+      "message": "V krátkosti popíšte problém."
+   },
+   "spFeedbackWhichOnlineStoreReporting": {
+      "message": "Ktorý online obchod nahlasujete? \u003Cspan class='asp-required-span'>(*povinné)\u003C/span>"
+   },
+   "spFeedbackWriteAComment": {
+      "message": "Napíšte komentár"
+   },
+   "spFeedbackback": {
+      "message": "späť"
+   },
+   "spGetCouponCode": {
+      "message": "Získať kód"
+   },
+   "spGreatDeal": {
+      "message": "Skvelá ponuka"
+   },
+   "spHelpTooltip": {
+      "message": "Pomocník"
+   },
+   "spITrustThisSite": {
+      "message": "Tejto stránke dôverujem"
+   },
+   "spLeaveSite": {
+      "message": "opustiť stránku"
+   },
+   "spLinkToProductPage": {
+      "message": "Odkaz na stránku produktu"
+   },
+   "spLoadingNotificationDescriptionMessage": {
+      "message": "Stojí za to počkať si, sľubujeme."
+   },
+   "spLoadingNotificationMessage": {
+      "message": "Vyhľadávajú sa ponuky..."
+   },
+   "spMinimizeTooltip": {
+      "message": "Minimalizovať"
+   },
+   "spNoResultsFound": {
+      "description": "%s is the domain where we couldn't find coupons or can be also, what the user wrote on our seach input",
+      "message": "Nenašli sa žiadne výsledky pre \u003Cbr> %s"
+   },
+   "spNoResultsFoundCoupons": {
+      "description": "%s is the domain where we couldn't find coupons or can be also, what the user wrote on our seach input",
+      "message": "Nenašli sa žiadne kupóny pre \u003Cbr> %s"
+   },
+   "spNoResultsFoundCouponsNow": {
+      "description": "%s is the domain where we couldn't find offer",
+      "message": "Momentálne sa nenašli žiadne kupóny"
+   },
+   "spNoResultsFoundOffers": {
+      "description": "%s is the domain where we couldn't find offer",
+      "message": "Momentálne sa nenašli žiadne ponuky"
+   },
+   "spNoResultsFoundOffersBasedOnQuery": {
+      "description": "%s is the title of the product for which we couldn't find offers or can be also, what the user wrote on our seach input",
+      "message": "Nenašli sa žiadne ponuky pre \u003Cbr> %s"
+   },
+   "spNoresultsFoundForOthers": {
+      "message": "Momentálne sme nenašli \u003Cbr> žiadne špeciálne ponuky"
+   },
+   "spNothingFoundCoupons": {
+      "message": "Ale nie...\u003Cbr>Nenašli sa žiadne kupóny..."
+   },
+   "spNothingFoundOffers": {
+      "message": "Ale nie...\u003Cbr>Nenašli sa žiadne ponuky..."
+   },
+   "spNothingFoundOthers": {
+      "message": "Ale nie...\u003Cbr>Nenašli sa žiadne špeciálne ponuky..."
+   },
+   "spNotificationRedirectShowLessMessage": {
+      "message": "Menej"
+   },
+   "spNotificationRedirectShowMoreMessage": {
+      "message": "Viac"
+   },
+   "spNotificationRedirectShowRedirectMessage": {
+      "message": "ZOBRAZIŤ VÝHODNÚ PONUKU"
+   },
+   "spOffersAndCouponsNotificationMessage": {
+      "message": "Našli sme ponuky a kupóny. Máte šťastie!"
+   },
+   "spOffersTab": {
+      "message": "Ponuky"
+   },
+   "spOnboardingSearchCoupons": {
+      "message": "Začať hľadať kupóny tu"
+   },
+   "spOnboardingSearchOffers": {
+      "message": "Začať hľadať ponuky tu"
+   },
+   "spOnboardingSettingsButton": {
+      "message": "OK"
+   },
+   "spOnboardingSettingsMsg": {
+      "message": "Nastavte, ako často chcete zobrazovať ponuky a kupóny"
+   },
+   "spOther": {
+      "message": "Iné"
+   },
+   "spOthersTab": {
+      "message": "Ostatné"
+   },
+   "spPhishingSite": {
+      "message": "Táto webová lokalita bola označená ako podvodná (phishingová)"
+   },
+   "spPhishingSiteDesc": {
+      "message": "Phishing je pokus o získanie citlivých informácií ako sú používateľské mená, heslá a informácie o platobných kartách."
+   },
+   "spProductBestOfferTitle": {
+      "message": "Najlepšia cena"
+   },
+   "spProductOrdered": {
+      "message": "Objednaný produkt"
+   },
+   "spProductSimilarOffersTitle": {
+      "message": "Podobné ponuky"
+   },
+   "spProductsSearchIconHover": {
+      "message": "Hľadať produkt"
+   },
+   "spProductsSearchInput": {
+      "message": "Hľadať produkty"
+   },
+   "spRateCouponsThanks": {
+      "message": "Ďakujeme."
+   },
+   "spRecommend": {
+      "message": "odporučiť"
+   },
+   "spRecommendESHop": {
+      "message": "Odporučiť e-shop"
+   },
+   "spRecommendExcellentSelectionOfProducts": {
+      "message": "Majú skvelý výber produktov."
+   },
+   "spRecommendGreatCcustomerService": {
+      "message": "Poskytujú zákazníkom dobré služby."
+   },
+   "spRecommendGreatValue": {
+      "message": "Majú dobré ceny."
+   },
+   "spRecommendWhy": {
+      "message": "Prečo odporúčate tento e-shop?*"
+   },
+   "spReport": {
+      "message": "nahlásiť"
+   },
+   "spReportESHop": {
+      "message": "Nahlásiť e-shop"
+   },
+   "spReportGetSomethingDifferent": {
+      "message": "Dostal(-a) som niečo iné, než som si objednal(-a)."
+   },
+   "spReportPaidAndNotGet": {
+      "message": "Zaplatil(-a) som za produkt a nedostal(-a) som ho."
+   },
+   "spReportTreatedMePoorly": {
+      "message": "Správali sa ku mne ako k zákazníkovi zle."
+   },
+   "spReportWhy": {
+      "message": "Prečo nahlasujete tento e-shop?*"
+   },
+   "spRequired": {
+      "message": "* povinné"
+   },
+   "spSearchCouponAppliedOnPage": {
+      "description": "%s is the name of the domain where coupon was applied",
+      "message": "Kupón použitý na lokalite \u003Cspan class='asp-shopname-span'>%s\u003C/span>."
+   },
+   "spSearchForCoupons": {
+      "message": "Ak chcete získať kupóny, \u003Cbr> vyhľadajte značku alebo online obchod"
+   },
+   "spSearchForOffers": {
+      "message": "Ponuky sa zobrazia \u003Cbr> po vyhľadaní produktu"
+   },
+   "spSearchInAmazon": {
+      "description": "%s is the name of the domain. Ex: amazon",
+      "message": "vyhľadávať cez %s"
+   },
+   "spSelectedCoupons": {
+      "message": "Vybrané kupóny"
+   },
+   "spSettingsPageCancel": {
+      "message": "Zrušiť"
+   },
+   "spSettingsPageCustomList": {
+      "message": "Vlastný zoznam"
+   },
+   "spSettingsPageCustomListItemAdd": {
+      "message": "Pridať"
+   },
+   "spSettingsPageCustomListItemAddSite": {
+      "message": "Pridať stránku"
+   },
+   "spSettingsPageCustomListTitle": {
+      "message": "Nezobrazovať žiadne oznámenia na týchto webových stránkach:"
+   },
+   "spSettingsPageCustomListTitleDesc": {
+      "message": "(ponuky a kupóny môžete stále vidieť po kliknutí na ikonu panela s nástrojmi)"
+   },
+   "spSettingsPageHelp": {
+      "message": "Pomocník"
+   },
+   "spSettingsPageHelpCouponsTitle": {
+      "message": "3. Kupóny"
+   },
+   "spSettingsPageHelpCouponsTitleDesc": {
+      "message": "Aby ste kupón použili, stačí naň len kliknúť. Zobrazí sa kód, ktorý budete musieť vložiť príslušného políčka pri platení. V ostatných prípadoch sa kupón použije automaticky."
+   },
+   "spSettingsPageHelpFAQsTitle": {
+      "message": "Viac informácií zistíte v \u003Cspan class='asp-faqs-span'>často kladených otázkach (FAQs)\u003C/span>."
+   },
+   "spSettingsPageHelpNotificationsTitle": {
+      "message": "1. Oznámenia"
+   },
+   "spSettingsPageHelpNotificationsTitleDesc": {
+      "message": "Keď SafePrice nájde ponuku alebo kupón, ktorý sa vzťahuje k vášmu vyhľadávaniu, zobrazí sa oznámenie. Kliknite na veľké zelené tlačidlo, aby ste zobrazili, čo sme pre vás našli."
+   },
+   "spSettingsPageHelpOffersTitle": {
+      "message": "2. Ponuky"
+   },
+   "spSettingsPageHelpOffersTitleDesc": {
+      "message": "Kliknutím na ponuku prejdete do dôveryhodného internetového obchodu partnera, kde získate novú cenu uvedenú v oznámení."
+   },
+   "spSettingsPageHelpOthersTitle": {
+      "message": "4. Iné"
+   },
+   "spSettingsPageHelpOthersTitleDesc": {
+      "message": "Kliknutím na uvedenú špeciálnu ponuku prejdete do dôveryhodného internetového obchodu partnera."
+   },
+   "spSettingsPageSave": {
+      "message": "Uložiť"
+   },
+   "spSettingsPageTitleAvast": {
+      "message": "Nastavenia Avast SafePrice"
+   },
+   "spSettingsPageTitleAvg": {
+      "message": "Nastavenia AVG SafePrice"
+   },
+   "spSettingsTabNotificationAccommodationsTitle": {
+      "message": "Ponuky ubytovania"
+   },
+   "spSettingsTabNotifications": {
+      "message": "Oznámenia"
+   },
+   "spSettingsTabNotificationsAccommodationsPopular": {
+      "message": "Zobraziť obľúbené hotely v požadovanej oblasti"
+   },
+   "spSettingsTabNotificationsAccommodationsShowBetter": {
+      "message": "Zobraziť, vždy keď je dostupná lepšia cena hotela"
+   },
+   "spSettingsTabNotificationsAccommodationsSimilar": {
+      "message": "Zobraziť alternatívne hotely"
+   },
+   "spSettingsTabNotificationsCoupons": {
+      "message": "Kupóny"
+   },
+   "spSettingsTabNotificationsCouponsHide": {
+      "message": "Neupozorňovať ma na kupóny"
+   },
+   "spSettingsTabNotificationsCouponsHideDesc": {
+      "message": "(kupóny môžete vidieť vždy po kliknutí na ikonu panela s nástrojmi)"
+   },
+   "spSettingsTabNotificationsCouponsShowAll": {
+      "message": "Zobraziť vždy, keď je k dispozícii kupón"
+   },
+   "spSettingsTabNotificationsCouponsShowOnce": {
+      "message": "Zobraziť na každej webovej stránke len raz"
+   },
+   "spSettingsTabNotificationsOffers": {
+      "message": "Ponuky"
+   },
+   "spSettingsTabNotificationsOffersBetter": {
+      "message": "Zobraziť, iba keď sú k dispozícii ponuky internetových obchodov lepšie ako pôvodná cena"
+   },
+   "spSettingsTabNotificationsOffersHideAll": {
+      "message": "Neupozorňovať ma na ponuky internetových obchodov"
+   },
+   "spSettingsTabNotificationsOffersHideAllDesc": {
+      "message": "(ponuky môžete vidieť vždy po kliknutí na ikonu panela s nástrojmi)"
+   },
+   "spSettingsTabNotificationsOffersShowAll": {
+      "message": "Zobrazovať, vždy keď sú ponuky internetových obchodov dostupné"
+   },
+   "spSettingsTabNotificationsOffersTitle": {
+      "message": "Ponuky internetových obchodov"
+   },
+   "spSettingsTabNotificationsOthers": {
+      "message": "Iné"
+   },
+   "spSettingsTabNotificationsOthersDesc": {
+      "message": "Upozorniť ma na zvláštne ponuky pre iné kategórie (doprava, financie, dodávky energií a ďalšie)"
+   },
+   "spSettingsTabNotificationsOthersTitle": {
+      "message": "Špeciálne ponuky"
+   },
+   "spSettingsTooltip": {
+      "message": "Nastavenia"
+   },
+   "spShippingLabel": {
+      "message": "Poštovné a balné od"
+   },
+   "spShowAll": {
+      "message": "ZOBRAZIŤ VŠETKO"
+   },
+   "spShowNotificationMessage": {
+      "message": "ZOBRAZIŤ"
+   },
+   "spShowNotificationRedirectMessage": {
+      "message": "Pozrite, čo sme našli!"
+   },
+   "spSimilarHotelsMessage": {
+      "message": "Alternatívne hotely"
+   },
+   "spSimilarHotelsNotificationMessage": {
+      "message": "Našli sme alternatívne hotely!"
+   },
+   "spSiteNotVerified": {
+      "message": "Táto stránka nie je dôveryhodná na nakupovanie"
+   },
+   "spSiteNotVerifiedHover": {
+      "message": "Táto webová lokalita bola identifikovaná ako nedôveryhodná. Každá ponuka, ktorú nájdeme, pochádza z bezpečnej webovej lokality, preto odporúčame kliknúť na niektorú z ponúk vyššie alebo to jednoducho skúste niekde inde."
+   },
+   "spSiteUntrustworthy": {
+      "message": "Táto webová stránka bola identifikovaná ako nedôveryhodná"
+   },
+   "spSiteUntrustworthyDesc": {
+      "message": "Odporúčame vám nakupovať inde, keďže táto stránka má od zákazníkov zlé hodnotenia."
+   },
+   "spSiteVerified": {
+      "message": "Táto stránka je overená a nakupovanie na nej je bezpečné"
+   },
+   "spSocialShare": {
+      "description": "It is showed up to users in order to make them share SafePrice on Social Networks",
+      "message": "Radi šetríte? Dajte to vedieť ostatným!"
+   },
+   "spSocialShareFb": {
+      "description": "It is showed up to users in order to make them share SafePrice on Facebook",
+      "message": "Zdieľať"
+   },
+   "spSocialSharetttr": {
+      "description": "It is showed up to users in order to make them share SafePrice on Twitter",
+      "message": "Poslať tweet"
+   },
+   "spTellUsMore": {
+      "message": "Povedzte nám viac"
+   },
+   "spThanksForVoting": {
+      "message": "Ďakujeme, že nám pomáhate vylepšovať SafePrice"
+   },
+   "spTrySearchDeals": {
+      "description": "%s is the domain. Ex: Amazon.com",
+      "message": "Skúste vyhľadávať ponuky na lokalite %s"
+   },
+   "spTrySearchInAmazon": {
+      "description": "%s is the domain. Ex: Amazon.com",
+      "message": "Skúste vyhľadávať cez %s"
+   }
+}

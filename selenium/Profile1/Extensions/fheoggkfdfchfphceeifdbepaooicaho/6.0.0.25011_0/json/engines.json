@@ -1,0 +1,664 @@
+{
+    "searchengines": [
+    {
+        "name": "yahoo_secure",
+        "issecuresearch": true,
+        "urlre": [
+            "^http(s)?:\\/\\/(([a-z][a-z]|chfr|chit|malaysia|espanol)\\.)?(yhs[0-9]\\.)?(www|search|myweb|myweb2|news\\.search|espanol\\.search|search\\.cn|one\\.cn)\\.yahoo\\.[a-z\\.]+\\/(search|custom|s|404handler|yhs).*fr=(mcafee|mcasa).*"
+        ],
+        "sourcetype": 2,
+        "stre": ["^https?:\\/\\/.+\\/.*[\\?&]p=([^&$]*)"],
+        "selectors": [
+        {
+            "selector": "ul>li>h3>a",
+            "parent": true,
+            "inline": true
+        },
+        {
+            "selector": "ol>li>h3>a",
+            "parent": true,
+            "inline": true
+        },
+        {
+            "selector": "ul>li>label>a",
+            "parent": true,
+            "inline": true
+        },
+        {
+            "selector": "p.txt>a",
+            "parent": true,
+            "inline": true
+        },
+        {
+            "selector": "div.ads div>h3>a, div.algo div>h3>a",
+            "parent": true,
+            "inline": true,
+            "filterURI":
+            {
+                "filterType": 0,
+                "startsWith": "/ru=",
+                "endsWith": "/rk="
+            }
+        },
+        {
+            "selector": "div.ads div>ul>li>a, div.algo div>ul>li>a",
+            "parent": false,
+            "inline": true,
+            "filterURI":
+            {
+                "filterType": 0,
+                "startsWith": "/ru=",
+                "endsWith": "/rk="
+            }
+        },
+        {
+            "selector": "div.ads-container div>h3>a",
+            "parent": true,
+            "inline": true,
+            "filterURI":
+            {
+                "filterType": 0,
+                "startsWith": "/ru=",
+                "endsWith": "/rk="
+            }
+        },
+        {
+            "selector": "div.ads div.aTitle>p>a, div.algo div.aTitle>p>a",
+            "parent": true,
+            "inline": true,
+            "filterURI":
+            {
+                "filterType": 0,
+                "startsWith": "/ru=",
+                "endsWith": "/rk="
+            }
+        },
+        {
+            "selector": "div.w div>h3>a",
+            "parent": false,
+            "inline": true
+        }]
+    },
+    {
+        "name": "yahoo",
+        "issecuresearch": false,
+        "urlre": [
+            "^http(s)?:\\/\\/(([a-z][a-z]|chfr|chit|malaysia|espanol)\\.)?(yhs[0-9]\\.)?(www|search|myweb|myweb2|news\\.search|espanol\\.search|search\\.cn|one\\.cn)\\.yahoo\\.[a-z\\.]+\\/(search|custom|s|404handler|yhs)"
+        ],
+        "sourcetype": 2,
+        "stre": ["^https?:\\/\\/.+\\/.*[\\?&]p=([^&$]*)"],
+        "selectors": [
+        {
+            "selector": "ul>li>h3>a",
+            "parent": true,
+            "inline": true
+        },
+        {
+            "selector": "ol>li>h3>a",
+            "parent": true,
+            "inline": true
+        },
+        {
+            "selector": "ul>li>label>a",
+            "parent": true,
+            "inline": true
+        },
+        {
+            "selector": "p.txt>a",
+            "parent": true,
+            "inline": true
+        },
+        {
+            "selector": "div.ads div>h3>a, div.algo div>h3>a",
+            "parent": true,
+            "inline": true,
+            "filterURI":
+            {
+                "filterType": 0,
+                "startsWith": "/ru=",
+                "endsWith": "/rk="
+            }
+        },
+        {
+            "selector": "div.ads div>ul>li>a, div.algo div>ul>li>a",
+            "parent": false,
+            "inline": true,
+            "filterURI":
+            {
+                "filterType": 0,
+                "startsWith": "/ru=",
+                "endsWith": "/rk="
+            }
+        },
+        {
+            "selector": "div.ads-container div>h3>a",
+            "parent": true,
+            "inline": true,
+            "filterURI":
+            {
+                "filterType": 0,
+                "startsWith": "/ru=",
+                "endsWith": "/rk="
+            }
+        },
+        {
+            "selector": "div.ads div.aTitle>p>a, div.algo div.aTitle>p>a",
+            "parent": true,
+            "inline": true,
+            "filterURI":
+            {
+                "filterType": 0,
+                "startsWith": "/ru=",
+                "endsWith": "/rk="
+            }
+        },
+        {
+            "selector": "div.w div>h3>a",
+            "parent": false,
+            "inline": true
+        }]
+    },
+    {
+        "name": "google",
+        "issecuresearch": false,
+        "urlre": [
+            "^http(s)?:\\/\\/(w+|america|news|encrypted|www\\.l)\\.google\\.[a-z\\.]+\\/search"
+        ],
+        "sourcetype": 1,
+        "stre": ["^https?:\\/\\/.+\\/.*[\\?&#]q=([^&#$]*)"],
+        "selectors": [
+          {
+            "selector": "h3.r>a",
+            "parent": true,
+            "hrefattr": [ "data-href" ],
+            "inline": true
+          },
+          {
+            "selector": "div.rc>div.r>a",
+            "parent": false,
+            "child": "h3.LC20lb",
+            "inline": true
+
+          },
+        {
+            "selector": "li>h3>a:nth-child(2)",
+            "parent": true,
+            "inline": true
+        },
+        {
+            "selector": "div._I2>a",
+            "parent": true,
+            "hrefattr": ["data-href"],
+            "inline": false
+        }]
+    },
+    {
+        "name": "bing_secure",
+        "issecuresearch": true,
+        "urlre": [
+            "^http(s)?:\\/\\/(www[0-9]*|it|hk|jp|br|be|nz)\\.(bing|search)\\.(com|daum)(\\.net|\\/fbf)?\\/(news|search|bing).*PC=MC.*"
+        ],
+        "sourcetype": 23,
+        "stre": ["^https?:\\/\\/.+\\/.*[\\?&]q=([^&$]*)"],
+        "selectors": [
+        {
+            "selector": "ol>li>h2>a",
+            "parent": true,
+            "inline": true
+        },
+        {
+            "selector": "ul>li>h3>a",
+            "parent": true,
+            "inline": true
+        }
+        ]
+    },
+    {
+        "name": "bing",
+        "issecuresearch": false,
+        "urlre": [
+            "^http(s)?:\\/\\/(www[0-9]*|it|hk|jp|br|be|nz)\\.(bing|search)\\.(com|daum)(\\.net|\\/fbf)?\\/(news|search|bing)",
+            "^http(s)?:\\/\\/www\\.msnbc\\.msn\\.com\\/\\?id"
+        ],
+        "sourcetype": 23,
+        "stre": ["^https?:\\/\\/.+\\/.*[\\?&]q=([^&$]*)"],
+        "selectors": [
+        {
+            "selector": "ol>li>h2>a",
+            "parent": true,
+            "inline": true
+        },
+        {
+            "selector": "ul>li>h3>a",
+            "parent": true,
+            "inline": true
+        }
+        ]
+    },
+    {
+        "name": "yandex_secure",
+        "issecuresearch": true,
+        "urlre": [
+            "^http(s)?:\\/\\/(www\\.)?yandex\\.ru\\/search\\/\\?.*clid=2285101.*"
+        ],
+        "sourcetype": 25,
+        "stre": ["^https?:\\/\\/.+\\/.*[\\?&]text=([^&$]*)"],
+        "selectors": [
+        {
+            "selector": "div.serp-item>h2.serp-item__title>a",
+            "parent": true,
+            "inline": true
+        },
+        {
+            "selector": "div.organic>h2.organic__title-wrapper>a",
+            "parent": true,
+            "inline": true
+        }]
+    },
+    {
+        "name": "yandex",
+        "issecuresearch": false,
+        "urlre": [
+            "^http(s)?:\\/\\/(www\\.)?yandex\\.(com|ru|by|kz|com\\.tr|ua)\\/search"
+        ],
+        "sourcetype": 25,
+        "stre": ["^https?:\\/\\/.+\\/.*[\\?&]text=([^&$]*)"],
+        "selectors": [
+        {
+            "selector": "div.serp-item>h2.serp-item__title>a",
+            "parent": true,
+            "inline": true
+        },
+        {
+            "selector": "div.organic>h2.organic__title-wrapper>a",
+            "parent": true,
+            "inline": true
+        }]
+    },
+    {
+        "name": "daum",
+        "issecuresearch": false,
+        "urlre": [
+            "^http(s)?:\\/\\/(search\\.daum\\.net)\\/search"
+        ],
+        "sourcetype": 20,
+        "stre": ["^https?:\\/\\/.+\\/.*[\\?&]q=([^&$]*)"],
+        "selectors": [
+        {
+            "selector": "div.cont_inner>div[class^=wrap_tit]>a",
+            "parent": false,
+            "inline": true
+        },
+        {
+            "selector": "div.coll_cont>ul>li>a",
+            "parent": false,
+            "inline": true
+        }]
+    },
+    {
+        "name": "facebook",
+        "issecuresearch": false,
+        "urlre": [
+            "^http(s)?:\\/\\/(www|m)\\.facebook\\.com"
+        ],
+        "sourcetype": 28,
+        "stre": ["^https?:\\/\\/.+\\/.*[\\?&]q=([^&$]*)"],
+        "selectors": [
+            {
+                "selector": "div.userContent a",
+                "hrefqstring": "u",
+                "excluderegex": "^http(s)?:\\/\\/.*\\.facebook\\.com",
+                "parent": false,
+                "inline": false
+            },
+			{
+                "selector": "div.mbs a",
+                "hrefqstring": "u",
+                "excluderegex": "^http(s)?:\\/\\/.*\\.facebook\\.com",
+                "parent": false,
+                "inline": false
+            },
+			{
+                "selector": "span.UFICommentBody a",
+                "hrefqstring": "u",
+                "excluderegex": "^http(s)?:\\/\\/.*\\.facebook\\.com",
+                "parent": false,
+                "inline": false
+            },
+			{
+                "selector": "table.conversationContainer a",
+                "hrefqstring": "u",
+                "excluderegex": "^http(s)?:\\/\\/.*\\.facebook\\.com",
+                "parent": false,
+                "inline": false
+            },
+            {
+                "selector": "div[aria-label=Messages] a",
+                "hrefqstring": "u",
+                "excluderegex": "^http(s)?:\\/\\/.*\\.facebook\\.com",
+                "parent": false,
+                "inline": false
+            },
+			{
+                "selector": "tr#vertex-info-item-website a",
+                "hrefqstring": "u",
+                "excluderegex": "^http(s)?:\\/\\/.*\\.facebook\\.com",
+                "parent": false,
+                "inline": false
+            },
+			{
+                "selector": "div#pages_side_column a:last-child",
+                "hrefqstring": "u",
+                "excluderegex": "^http(s)?:\\/\\/.*\\.facebook\\.com",
+                "parent": false,
+                "inline": false
+            },
+			{
+                "selector": "span.fbPhotosPhotoCaption a",
+                "hrefqstring": "u",
+                "excluderegex": "^http(s)?:\\/\\/.*\\.facebook\\.com",
+                "parent": false,
+                "inline": false
+            }
+        ]
+    },
+    {
+        "name": "ask",
+        "issecuresearch": false,
+        "urlre": [
+            "^http(s)?:\\/\\/((www|search|ru|fr|de|uk|it|nl|es|eu|jp|br|ca|mx|pl|no|dk|se|us|au|in|ar|pt)\\.)?(uk\\.)?ask\\.(com|jp)\\/(web|pictures|news|videos|ref|ans)(\\.asp)?\\?"
+        ],
+        "sourcetype": 5,
+        "stre": ["^https?:\\/\\/.+\\/.*[\\?&]q=([^&$]*)"],
+        "selectors": [
+        {
+            "selector": "div[class^=PartialSearchResults-item-title]>a",
+            "parent": true,
+            "inline": true
+        },
+        {
+            "selector": "div[class^=adD]>div>div>a",
+            "parent": true,
+            "inline": true
+        },
+        {
+            "selector": "div[class^=sa]>a",
+            "parent": false,
+            "inline": true
+        }]
+    },
+    {
+        "name": "aol",
+        "issecuresearch": false,
+        "urlre": [
+            "^http(s)?:\\/\\/(recherche|suche|search|search\\.cn)\\.aol\\.(jp|cn|fr|ca|com\\.mx|co\\.uk|de|in|com|com\\.au)\\/"
+        ],
+        "sourcetype": 4,
+        "stre": ["^https?:\\/\\/.+\\/.*[\\?&]q=([^&$]*)"],
+        "selectors": [
+        {
+            "selector": "div[class$=options-toggle]>h3>a",
+            "parent": true,
+            "inline": true,
+            "filterURI":
+            {
+                "filterType": 0,
+                "startsWith": "/ru=",
+                "endsWith": "/rk="
+            }
+        },
+        {
+            "selector": "li[class^=mb-12]>a",
+            "parent": false,
+            "inline": true,
+            "filterURI":
+            {
+                "filterType": 0,
+                "startsWith": "/ru=",
+                "endsWith": "/rk="
+            }
+        }]
+    },
+    {
+        "name": "uol",
+        "issecuresearch": false,
+        "urlre": [
+            "^http(s)?:\\/\\/((mundo|brasil)\\.)?busca\\.uol\\.com\\.br\\/(((www|uol|br)\\/index\\.html\\?)|(buscar\\.html))?"
+        ],
+        "sourcetype": 6,
+        "stre": ["^https?:\\/\\/.+\\/.*[\\?&]q=([^&$]*)"],
+        "selectors": [
+        {
+            "selector": "a[class^=gs-title]",
+            "parent": false,
+            "inline": true
+        }]
+    },
+    {
+        "name": "goo",
+        "issecuresearch": false,
+        "urlre": [
+            "^http(s)?:\\/\\/search\\.goo\\.ne\\.jp\\/web\\.jsp\\?"
+        ],
+        "sourcetype": 7,
+        "stre": ["^http:\\/\\/search\\.goo\\.ne\\jp\\/web\\.jsp\\?"],
+        "selectors": [
+        {
+            "selector": "div[class=result]>p[class^=title]>a",
+            "parent": true,
+            "inline": true
+        }]
+    },
+    {
+        "name": "myway",
+        "issecuresearch": false,
+        "urlre": [
+            "^http(s)?:\\/\\/(search)\\.myway\\.com\\/(search|jsp)\\/(AJ|GG|AW|LS|GG)(main|web|advr)\\.(jsp|jhtml)"
+        ],
+        "sourcetype": 8,
+        "stre": ["^https?:\\/\\/.+\\/.*[\\?&]searchfor=([^&$]*)"],
+        "selectors": [
+        {
+            "selector": "ol>li>div>a.algo-title",
+            "parent": true,
+            "inline": true
+        }]
+    },
+    {
+        "name": "terra",
+        "issecuresearch": false,
+        "urlre": [
+            "^http(s)?:\\/\\/www\\.terra\\.com\\.(br|mx|pe|co|ec|ve|es|ar)"
+        ],
+        "sourcetype": 11,
+        "stre": ["^https?:\\/\\/.+\\/.*[\\?&]query=([^&$]*)"],
+        "selectors": [
+        {
+            "selector": "div[class=gs-title]>a",
+            "parent": false,
+            "inline": true
+        }]
+    },
+    {
+        "name": "xfinity",
+        "issecuresearch": false,
+        "urlre": [
+            "^http(s)?:\\/\\/search\\.xfinity\\.com"
+        ],
+        "sourcetype": 12,
+        "stre": ["^https?:\\/\\/.+\\/.*[\\?&]q=([^&$]*)"],
+        "selectors": [
+        {
+            "selector": "ol.sr>li>h3>a",
+            "parent": false,
+            "inline": true
+        }]
+    },
+    {
+        "name": "web",
+        "issecuresearch": false,
+        "urlre": [
+            "^http(s)?:\\/\\/suche\\.web\\.de\\/web"
+        ],
+        "sourcetype": 13,
+        "stre": ["^https?:\\/\\/.+\\/.*[\\?&]q=([^&$]*)"],
+        "selectors": [
+        {
+            "selector": "h3[class^=pos-web-result-list-item__title]>a",
+            "parent": true,
+            "inline": true
+        }]
+    },
+    {
+        "name": "biglobe",
+        "issecuresearch": false,
+        "urlre": [
+            "^http(s)?:\\/\\/cgi\\.search\\.biglobe\\.ne\\.jp\\/"
+        ],
+        "sourcetype": 14,
+        "stre": ["^https?:\\/\\/.+\\/.*[\\?&]q=([^&$]*)"],
+        "selectors": [
+        {
+            "selector": "li>div[class^=sr-wrap]>div[class^=sr]>h3>a",
+            "parent": true,
+            "inline": true
+        }]
+    },
+    {
+        "name": "cox",
+        "issecuresearch": false,
+        "urlre": [
+            "^http(s)?:\\/\\/[a-z]+\\.cox\\.net\\/cci\\/(search\\/)?google",
+            "^http(s)?:\\/\\/[a-z0-9]+\\.cox\\.com\\/search"
+        ],
+        "sourcetype": 16,
+        "stre": ["^https?:\\/\\/.+\\/.*[\\?&]q=([^&$]*)"],
+        "selectors": [
+        {
+            "selector": "div.col-content>div.external-search-result>h4>a",
+            "parent": false,
+            "inline": true
+        }]
+    },
+    {
+        "name": "gmx",
+        "issecuresearch": false,
+        "urlre": [
+            "^http(s)?:\\/\\/suche\\.gmx\\.net\\/web"
+        ],
+        "sourcetype": 17,
+        "stre": ["^https?:\\/\\/.+\\/.*[\\?&]q=([^&$]*)"],
+        "selectors": [
+        {
+            "selector": "h3[class^=pos-web-result-list-item__title]>a",
+            "parent": false,
+            "inline": true
+        }]
+    },
+    {
+        "name": "excite",
+        "issecuresearch": false,
+        "urlre": [
+            "^http(s)?:\\/\\/websearch\\.excite\\.co\\.jp"
+        ],
+        "sourcetype": 18,
+        "stre": ["^https?:\\/\\/.+\\/.*[\\?&]q=([^&$]*)"],
+        "selectors": [
+        {
+            "selector": "section>div.item>h3.item_title>a",
+            "parent": false,
+            "inline": true
+        }]
+    },
+    {
+        "name": "sky",
+        "issecuresearch": false,
+        "urlre": [
+            "^http(s)?:\\/\\/secure.search\\.sky\\.com?"
+        ],
+        "sourcetype": 19,
+        "stre": ["^https?:\\/\\/.+\\/.*[\\?&]query=([^&$]*)"],
+        "selectors": [
+        {
+            "selector": "li>h3.title>a",
+            "parent": false,
+            "inline": true
+        }]
+    },
+    {
+        "name": "naver",
+        "issecuresearch": false,
+        "urlre": [
+            "^http(s)?:\\/\\/(web\\.)?search\\.naver\\.com\\/search\\.naver\\?"
+        ],
+        "sourcetype": 21,
+        "stre": ["^https?:\\/\\/.+\\/.*[\\?&]query=([^&$]*)"],
+        "selectors": [
+        {
+            "selector": "dt.title_area>a",
+            "parent": false,
+            "inline": true
+        },
+        {
+            "selector": "li>dl>dt>a",
+            "parent": false,
+            "inline": true
+        },
+        {
+            "selector": "li.sh_blog_top>dl>dt>a",
+            "parent": false,
+            "inline": true
+        }]
+    },
+    {
+        "name": "nifty",
+        "issecuresearch": false,
+        "urlre": [
+            "^http(s)?:\\/\\/search\\.nifty\\.com\\/cgi\\-bin\\/search\\.cgi\\?",
+            "^http(s)?:\\/\\/(azby\\.)?search\\.nifty\\.com\\/websearch\\/search"
+        ],
+        "sourcetype": 22,
+        "stre": ["^https?:\\/\\/.+\\/.*[\\?&]Text=([^&$]*)"],
+        "selectors": [
+        {
+            "selector": "ul>li.unt>a",
+            "parent": false,
+            "inline": true
+        },
+        {
+            "selector": "div.hd>h3>a",
+            "parent": false,
+            "inline": true
+        }]
+    },
+    {
+        "name": "rakuten",
+        "issecuresearch": false,
+        "urlre": [
+            "^http(s)?:\\/\\/(websearch|search)\\.rakuten\\.co\\.jp"
+        ],
+        "sourcetype": 24,
+        "stre": ["^https?:\\/\\/.+\\/.*\\/mall\\/([^\\/]+)\\/", "^https?:\\/\\/.+\\/.*[\\?&]sitem=([^&$]*)"],
+        "selectors": [
+        {
+            "selector": "ul.os-result>li>a.os-window",
+            "parent": false,
+            "inline": true
+        }]
+    },
+    {
+        "name": "linkedin",
+        "issecuresearch": false,
+        "urlre": [
+            "^http(s)?:\\/\\/www\\.linkedin\\.com"
+        ],
+        "sourcetype": 26,
+        "stre": [],
+        "selectors": [
+        {
+            "selector": "p>a[data-trk=link]",
+            "parent": false,
+            "inline": true
+        }]
+    }]
+}
